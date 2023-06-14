@@ -1,7 +1,7 @@
 # Python
 ## Aprendendo do absoluto zero
 ### Primeira etapa
-Consumir todo o conteúdo dessa playlist
+Consumir todo o conteúdo da Playlist Curso em vídeo - Python
 https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
 
 - [x]  Curso Python #01 - Seja um Programador
