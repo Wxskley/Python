@@ -9,4 +9,5 @@ https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
 - [x]  Curso Python #02 - Para que serve o Python?
 - [x]  Curso Python #03 - Instalando o Python3 e o IDLE
 - [x]  Curso Python #04 - Primeiros comandos em Python3
-- [] Curso Python #05 - Instalando o PyCharm e o QPython3
+- [x] Curso Python #05 - Instalando o PyCharm e o QPython3
+- [ ] Exercício Python #001 - Deixando tudo pronto
