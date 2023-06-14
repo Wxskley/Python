@@ -1,5 +1,5 @@
-n1 = input('Digite o primeiro número ')
-n2 = input('Digite o segundo número ')
+n1 = input("Digite o primeiro número ")
+n2 = input("Digite o segundo número ")
 n1 = int(n1)
 n2 = int(n2)
-print(n1+n2)
+print(n1 + n2)
