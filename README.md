@@ -1,2 +1,11 @@
 # Python
-#### Estudando python do absoluto zero
+## Aprendendo do absoluto zero
+### Primeira etapa
+Consumir todo o conteúdo dessa playlist
+https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
+
+- [x]  Curso Python #01 - Seja um Programador
+- [x]  Curso Python #02 - Para que serve o Python?
+- [x]  Curso Python #03 - Instalando o Python3 e o IDLE
+- [x]  Curso Python #04 - Primeiros comandos em Python3
+- [] Curso Python #05 - Instalando o PyCharm e o QPython3
