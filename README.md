@@ -32,4 +32,4 @@ Dia 2
 - [x] Exercício Python #013 - Reajuste Salarial
 - [x] Exercício Python #014 - Conversor de Temperaturas
 - [x] Exercício Python #015 - Aluguel de Carros
-- [ ] Quiz em Python | Projeto para Iniciantes [A1]
+- [x] Quiz em Python | Projeto para Iniciantes [A1]
