@@ -16,4 +16,6 @@ Dia 1
 - [x] Curso Python #06 - Tipos Primitivos e Saída de Dados
 
 Dia 2
-- [ ] Exercício Python #003 - Somando dois números
+- [x] Exercício Python #003 - Somando dois números
+- [x] Exercício Python #004 - Dissecando uma Variável
+- [ ] Curso Python #07 - Operadores Aritméticos
