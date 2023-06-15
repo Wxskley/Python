@@ -30,3 +30,4 @@ Dia 2
 - [x] Exercício Python #013 - Reajuste Salarial
 - [x] Exercício Python #014 - Conversor de Temperaturas
 - [x] Exercício Python #015 - Aluguel de Carros
+- [ ] Curso Python #08 - Utilizando Módulos
