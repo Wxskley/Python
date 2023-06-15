@@ -5,6 +5,7 @@ Consumir todo o conteúdo da Playlist Curso em vídeo - Python
 
 https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
 
+Dia 1
 - [x]  Curso Python #01 - Seja um Programador
 - [x]  Curso Python #02 - Para que serve o Python?
 - [x]  Curso Python #03 - Instalando o Python3 e o IDLE
@@ -13,4 +14,6 @@ https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
 - [x] Exercício Python #001 - Deixando tudo pronto
 - [x] Exercício Python #002 - Respondendo ao Usuário
 - [x] Curso Python #06 - Tipos Primitivos e Saída de Dados
+
+Dia 2
 - [ ] Exercício Python #003 - Somando dois números
