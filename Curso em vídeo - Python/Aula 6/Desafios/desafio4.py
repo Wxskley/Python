@@ -1,7 +1,0 @@
-algo = input("Digite algo: ")
-print("Tipo primitivo: ", type(algo))
-print("É um número? ", algo.isnumeric())
-print("É alfabético? ", algo.isalpha())
-print("É alfanumérico? ", algo.isalnum())
-print("Esta em letras maiúsculas? ", algo.isupper())
-print("Está em letras minúsculas? ", algo.islower())
