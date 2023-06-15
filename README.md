@@ -21,4 +21,7 @@ Dia 2
 - [x] Curso Python #07 - Operadores Aritméticos
 - [x] Exercício Python #005 - Antecessor e Sucessor
 - [x] Exercício Python #006 - Dobro, Triplo, Raiz Quadrada
-- [ ] Exercício Python #007 - Média Aritmética
+- [x] Exercício Python #007 - Média Aritmética
+- [x] Exercício Python #008 - Conversor de Medidas
+- [x] Exercício Python #009 - Tabuada
+- [ ] Exercício Python #010 - Conversor de Moedas
