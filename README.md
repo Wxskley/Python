@@ -28,4 +28,5 @@ Dia 2
 - [x] Exercício Python #011 - Pintando Parede
 - [x] Exercício Python #012 - Calculando Descontos
 - [x] Exercício Python #013 - Reajuste Salarial
-- [ ] Exercício Python #014 - Conversor de Temperaturas
+- [x] Exercício Python #014 - Conversor de Temperaturas
+- [ ] Exercício Python #015 - Aluguel de Carros
