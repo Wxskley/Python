@@ -29,4 +29,4 @@ Dia 2
 - [x] Exercício Python #012 - Calculando Descontos
 - [x] Exercício Python #013 - Reajuste Salarial
 - [x] Exercício Python #014 - Conversor de Temperaturas
-- [ ] Exercício Python #015 - Aluguel de Carros
+- [x] Exercício Python #015 - Aluguel de Carros
