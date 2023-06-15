@@ -24,4 +24,8 @@ Dia 2
 - [x] Exercício Python #007 - Média Aritmética
 - [x] Exercício Python #008 - Conversor de Medidas
 - [x] Exercício Python #009 - Tabuada
-- [ ] Exercício Python #010 - Conversor de Moedas
+- [x] Exercício Python #010 - Conversor de Moedas
+- [x] Exercício Python #011 - Pintando Parede
+- [x] Exercício Python #012 - Calculando Descontos
+- [x] Exercício Python #013 - Reajuste Salarial
+- [ ] Exercício Python #014 - Conversor de Temperaturas
