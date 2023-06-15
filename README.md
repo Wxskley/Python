@@ -1,9 +1,11 @@
 # Python
 ## Aprendendo do absoluto zero
 ### Primeira etapa
-Consumir todo o conteúdo da Playlist Curso em vídeo - Python
+Consumir conteúdo dessas playlists
 
 https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
+
+https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 
 Dia 1
 - [x]  Curso Python #01 - Seja um Programador
@@ -30,4 +32,4 @@ Dia 2
 - [x] Exercício Python #013 - Reajuste Salarial
 - [x] Exercício Python #014 - Conversor de Temperaturas
 - [x] Exercício Python #015 - Aluguel de Carros
-- [ ] Curso Python #08 - Utilizando Módulos
+- [ ] Quiz em Python | Projeto para Iniciantes [A1]
