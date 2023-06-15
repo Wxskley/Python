@@ -13,3 +13,4 @@ https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
 - [x] Exercício Python #001 - Deixando tudo pronto
 - [x] Exercício Python #002 - Respondendo ao Usuário
 - [x] Curso Python #06 - Tipos Primitivos e Saída de Dados
+- [ ] Exercício Python #003 - Somando dois números
