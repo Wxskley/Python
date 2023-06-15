@@ -12,4 +12,4 @@ https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
 - [x] Curso Python #05 - Instalando o PyCharm e o QPython3
 - [x] Exercício Python #001 - Deixando tudo pronto
 - [x] Exercício Python #002 - Respondendo ao Usuário
-- [ ] Curso Python #06 - Tipos Primitivos e Saída de Dados
+- [x] Curso Python #06 - Tipos Primitivos e Saída de Dados
