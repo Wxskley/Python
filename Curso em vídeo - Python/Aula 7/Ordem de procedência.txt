@@ -1,0 +1,10 @@
+Ordem de precedência em Python:
+
+Parênteses: ()
+Potenciação: **
+Multiplicação, divisão, resto da divisão: *, /, //, %
+Adição e subtração: +, -
+Comparadores: ==, !=, >, <, >=, <=
+Operadores lógicos: not, and, or
+
+Use parênteses para definir a ordem de avaliação desejada.

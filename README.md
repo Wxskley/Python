@@ -18,4 +18,5 @@ Dia 1
 Dia 2
 - [x] Exercício Python #003 - Somando dois números
 - [x] Exercício Python #004 - Dissecando uma Variável
-- [ ] Curso Python #07 - Operadores Aritméticos
+- [x] Curso Python #07 - Operadores Aritméticos
+- [ ] Exercício Python #005 - Antecessor e Sucessor
