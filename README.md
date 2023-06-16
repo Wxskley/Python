@@ -35,3 +35,4 @@ Dia 2
 - Projetos em Python para Iniciantes
     - [x] Quiz em Python | Projeto para Iniciantes [A1]
     - [x] Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]
+    - [x] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
