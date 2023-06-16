@@ -39,4 +39,4 @@ Dia 2
 Dia 3
 - Projetos em Python para Iniciantes
     - [x] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
-    - [ ] Temporizador em Python | Projetos para Iniciantes [A4]
+    - [x] Temporizador em Python | Projetos para Iniciantes [A4]
