@@ -45,4 +45,4 @@ Dia 3
     - [x] Datas e Funções | Projetos em Python para Iniciantes [A7]
     - [x] Detectando palindromos com recursividade | Projetos em Python para Iniciantes [A8]
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-    - [ ] Curso Python #08 - Utilizando Módulos
+    - [x] Curso Python #08 - Utilizando Módulos
