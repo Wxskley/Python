@@ -41,4 +41,5 @@ Dia 3
     - [x] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
     - [x] Temporizador em Python | Projetos para Iniciantes [A4]
     - [x] Gerador de Senha em Python | Projeto para Iniciantes [A5]
-    - [ ] Jogo da Adivinhação das Datas (termoo) | Projetos em Python para Iniciantes [A6]
+    - [x] Jogo da Adivinhação das Datas (termoo) | Projetos em Python para Iniciantes [A6]
+    - [ ] Datas e Funções | Projetos em Python para Iniciantes [A7]
