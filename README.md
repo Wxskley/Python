@@ -42,4 +42,5 @@ Dia 3
     - [x] Temporizador em Python | Projetos para Iniciantes [A4]
     - [x] Gerador de Senha em Python | Projeto para Iniciantes [A5]
     - [x] Jogo da Adivinhação das Datas (termoo) | Projetos em Python para Iniciantes [A6]
-    - [ ] Datas e Funções | Projetos em Python para Iniciantes [A7]
+    - [x] Datas e Funções | Projetos em Python para Iniciantes [A7]
+    - [ ] Detectando palindromos com recursividade | Projetos em Python para Iniciantes [A8]
