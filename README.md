@@ -43,4 +43,4 @@ Dia 3
     - [x] Gerador de Senha em Python | Projeto para Iniciantes [A5]
     - [x] Jogo da Adivinhação das Datas (termoo) | Projetos em Python para Iniciantes [A6]
     - [x] Datas e Funções | Projetos em Python para Iniciantes [A7]
-    - [ ] Detectando palindromos com recursividade | Projetos em Python para Iniciantes [A8]
+    - [x] Detectando palindromos com recursividade | Projetos em Python para Iniciantes [A8]
