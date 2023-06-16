@@ -3,8 +3,7 @@
 ### Primeira etapa
 Consumir conteúdo dessas playlists
 - [Curso completo de Python - Curso em vídeo](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-- Projetos em Python para Iniciantes
-    https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
 
 Dia 1
 - Curso em Vídeo - Python
