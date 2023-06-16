@@ -36,3 +36,4 @@ Dia 2
     - [x] Exercício Python #015 - Aluguel de Carros
 - Projetos em Python para Iniciantes
     - [x] Quiz em Python | Projeto para Iniciantes [A1]
+    - [x]Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]
