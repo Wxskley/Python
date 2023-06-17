@@ -57,4 +57,5 @@ Dia 4
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - [x] Filtrando e Mapeando Animais de um Aquário | Projetos em Python para Iniciantes [B1]
     - [x] Map e Reduce em Aquário | Projetos em Python Para Iniciantes [B2]
-    - [ ] Coletando e Exibindo Dados do NBA com API | Projetos em Python para Iniciantes [B3]
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+    - [ ] Curso Python #09 - Manipulando Texto
