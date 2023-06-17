@@ -56,4 +56,5 @@ Dia 3
 Dia 4
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - [x] Filtrando e Mapeando Animais de um Aquário | Projetos em Python para Iniciantes [B1]
-    - [ ] Map e Reduce em Aquário | Projetos em Python Para Iniciantes [B2]
+    - [x] Map e Reduce em Aquário | Projetos em Python Para Iniciantes [B2]
+    - [ ] Coletando e Exibindo Dados do NBA com API | Projetos em Python para Iniciantes [B3]
