@@ -65,4 +65,4 @@ Dia 4
     - [x] Exercício Python #025 - Procurando uma string dentro de outra
     - [x] Exercício Python #026 - Primeira e última ocorrência de uma string
     - [x] Exercício Python #027 - Primeiro e último nome de uma pessoa
-    - [Aprenda Python em 10min (para Iniciantes)] (https://www.youtube.com/watch?v=4p7axLXXBGU)
+    - [x] [Aprenda Python em 10min (para Iniciantes)] (https://www.youtube.com/watch?v=4p7axLXXBGU)
