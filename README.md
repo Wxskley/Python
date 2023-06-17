@@ -67,3 +67,4 @@ Dia 4
 - **Não pertence a nenhuma playlist** 
     - [x] Aprenda Python em 10min (para Iniciantes) (https://www.youtube.com/watch?v=4p7axLXXBGU)
     - [x] Python - Criando um teste / quiz (https://www.youtube.com/watch?v=kxB4DZ3O4D4)
+    - [x] Como Criar Uma Tela Em Python c/ PySimpleGUI [Fácil] (https://www.youtube.com/watch?v=UnfmxnFpfdM)
