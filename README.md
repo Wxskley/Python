@@ -46,3 +46,9 @@ Dia 3
     - [x] Detectando palindromos com recursividade | Projetos em Python para Iniciantes [A8]
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     - [x] Curso Python #08 - Utilizando Módulos
+    - [x] Exercício Python #016 - Quebrando um número
+    - [x] Exercício Python #017 - Catetos e Hipotenusa
+    - [x] Exercício Python #018 - Seno, Cosseno e Tangente
+    - [x] Exercício Python #019 - Sorteando um item na lista
+    - [x] Exercício Python #020 - Sorteando uma ordem na lista
+    - [x] Exercício Python #021 - Tocando um MP3
