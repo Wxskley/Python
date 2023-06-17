@@ -58,4 +58,10 @@ Dia 4
     - [x] Filtrando e Mapeando Animais de um Aquário | Projetos em Python para Iniciantes [B1]
     - [x] Map e Reduce em Aquário | Projetos em Python Para Iniciantes [B2]
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-    - [ ] Curso Python #09 - Manipulando Texto
+    - [x] Curso Python #09 - Manipulando Texto
+    - [x] Exercício Python #022 - Analisador de Textos
+    - [x] Exercício Python #023 - Separando dígitos de um número
+    - [x] Exercício Python #024 - Verificando as primeiras letras de um texto
+    - [x] Exercício Python #025 - Procurando uma string dentro de outra
+    - [x] Exercício Python #026 - Primeira e última ocorrência de uma string
+    - [x] Exercício Python #027 - Primeiro e último nome de uma pessoa
