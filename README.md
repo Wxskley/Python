@@ -52,3 +52,8 @@ Dia 3
     - [x] Exercício Python #019 - Sorteando um item na lista
     - [x] Exercício Python #020 - Sorteando uma ordem na lista
     - [x] Exercício Python #021 - Tocando um MP3
+
+Dia 4
+- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+    - [x] Filtrando e Mapeando Animais de um Aquário | Projetos em Python para Iniciantes [B1]
+    - [ ] Map e Reduce em Aquário | Projetos em Python Para Iniciantes [B2]
