@@ -93,5 +93,9 @@ Dia 5
     - [x] Contar Palavras em um Texto
     - [x] Números Primos em um Intervalo
     - [x] Média e Desvio Padrão
+    - [x] Maior elemento em uma matriz
+    - [x] Soma de matrizes
+    - [x] Multiplicação de matrizes
+    - [x] Transposição de matrizes
 - **Não pertence a nenhuma playlist**
     - [x] Python // Dicionário do Programador (https://www.youtube.com/watch?v=uOgDa1rlqjE)
