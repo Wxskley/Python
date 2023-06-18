@@ -90,5 +90,8 @@ Dia 5
     - [x] Verificar Palíndromo
     - [x] Ordenar Lista de Números
     - [x] Jogo da Adivinhação
+    - [x] Contar Palavras em um Texto
+    - [x] Números Primos em um Intervalo
+    - [x] Média e Desvio Padrão
 - **Não pertence a nenhuma playlist**
     - [x] Python // Dicionário do Programador (https://www.youtube.com/watch?v=uOgDa1rlqjE)
