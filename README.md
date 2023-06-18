@@ -99,3 +99,5 @@ Dia 5
     - [x] Transposição de matrizes
 - **Não pertence a nenhuma playlist**
     - [x] Python // Dicionário do Programador (https://www.youtube.com/watch?v=uOgDa1rlqjE)
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+    - [ ] Curso Python #10 - Condições (Parte 1)
