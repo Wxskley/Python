@@ -81,3 +81,9 @@ Dia 4
     - [x] Função Saudação
     - [x] Função Fatorial
     - [x] Função Busca
+
+Dia 5
+- **ChatGPT**
+    - [x] Tratamento de Exceções
+    - [x] Manipulação de Arquivos
+    - [x] Módulos e Bibliotecas
