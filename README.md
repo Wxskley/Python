@@ -87,3 +87,6 @@ Dia 5
     - [x] Tratamento de Exceções
     - [x] Manipulação de Arquivos
     - [x] Módulos e Bibliotecas
+    - [x] Verificar Palíndromo
+    - [x] Ordenar Lista de Números
+    - [x] Jogo da Adivinhação
