@@ -68,3 +68,16 @@ Dia 4
     - [x] Aprenda Python em 10min (para Iniciantes) (https://www.youtube.com/watch?v=4p7axLXXBGU)
     - [x] Python - Criando um teste / quiz (https://www.youtube.com/watch?v=kxB4DZ3O4D4)
     - [x] Como Criar Uma Tela Em Python c/ PySimpleGUI [Fácil] (https://www.youtube.com/watch?v=UnfmxnFpfdM)
+- **ChatGPT**
+    - [x] Introdução
+    - [x] Variáveis
+    - [x] Operadores
+    - [x] Estruturas condicionais
+    - [x] Listas
+    - [x] Dicionários
+    - [x] Strings
+    - [x] Loop While
+    - [x] Funções
+    - [x] Função Saudação
+    - [x] Função Fatorial
+    - [x] Função Busca
