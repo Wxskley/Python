@@ -100,4 +100,12 @@ Dia 5
 - **Não pertence a nenhuma playlist**
     - [x] Python // Dicionário do Programador (https://www.youtube.com/watch?v=uOgDa1rlqjE)
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-    - [ ] Curso Python #10 - Condições (Parte 1)
+    - [x] Curso Python #10 - Condições (Parte 1)
+    - [x] Exercício Python #028 - Jogo da Adivinhação v.1.0
+    - [x] Exercício Python #029 - Radar eletrônico
+    - [x] Exercício Python #030 - Par ou Ímpar?
+    - [x] Exercício Python #031 - Custo da Viagem
+    - [x] Exercício Python #032 - Ano Bissexto
+    - [x] Exercício Python #033 - Maior e menor valores
+    - [x] Exercício Python #034 - Aumentos múltiplos
+    - [x] Exercício Python #035 - Analisando Triângulo v1.0
