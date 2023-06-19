@@ -109,3 +109,19 @@ Dia 5
     - [x] Exercício Python #033 - Maior e menor valores
     - [x] Exercício Python #034 - Aumentos múltiplos
     - [x] Exercício Python #035 - Analisando Triângulo v1.0
+
+Dia 6
+- **ChatGPT**
+    - [x] Tuplas
+    - [x] Conjuntos
+    - [x] Filas
+    - [x] Manipulação de Arquivos
+    - [x] Exceções e Tratamento de Erros
+    - [x] Programação Orientada a Objetos (POO)
+    - [x] Classe
+    - [ ] Objeto
+    - [ ] Atributos
+    - [ ] Métodos
+    - [ ] Herança
+    - [ ] Polimorfismo
+    - [ ] Encapsulamento
