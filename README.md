@@ -129,3 +129,10 @@ Dia 6
     - [x] Formatação avançada de strings
     - [x] Expressões regulares
     - [x] Processamento de texto
+    - [x] Obtendo a data e hora atual
+    - [x] Formatando datas
+    - [x] Realizando operações com datas e horas
+    - [x] Escrevendo um CSV
+    - [x] Escrevendo um JSON
+    - [x] Lendo um CSV
+    - [x] Lendo um JSON
