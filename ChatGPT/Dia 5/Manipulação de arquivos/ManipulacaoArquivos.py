@@ -1,7 +1,7 @@
 try:
     # Tentativa de executar um bloco de código que pode gerar exceções
 
-    arquivo = open(r"ChatGPT\arquivo.txt", "r")
+    arquivo = open(r"ChatGPT\Dia 5\Manipulação de arquivos\arquivo.txt", "r")
     # Abre o arquivo "dados.txt" em modo de leitura ("r") e o associa à variável "arquivo"
 
     conteudo = arquivo.read()
