@@ -126,6 +126,6 @@ Dia 6
     - [x] Polimorfismo
     - [x] Encapsulamento
     - [x] Módulos e pacotes
-    - [ ] Formatação avançada de strings
-    - [ ] Expressões regulares
-    - [ ] Processamento de texto
+    - [x] Formatação avançada de strings
+    - [x] Expressões regulares
+    - [x] Processamento de texto
