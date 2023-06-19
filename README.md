@@ -119,9 +119,9 @@ Dia 6
     - [x] Exceções e Tratamento de Erros
     - [x] Programação Orientada a Objetos (POO)
     - [x] Classe
-    - [ ] Objeto
-    - [ ] Atributos
-    - [ ] Métodos
-    - [ ] Herança
-    - [ ] Polimorfismo
-    - [ ] Encapsulamento
+    - [x] Objeto
+    - [x] Atributos
+    - [x] Métodos
+    - [x] Herança
+    - [x] Polimorfismo
+    - [x] Encapsulamento
