@@ -136,3 +136,7 @@ Dia 6
     - [x] Escrevendo um JSON
     - [x] Lendo um CSV
     - [x] Lendo um JSON
+
+Dia 7
+- **Não pertence a nenhuma playlist**
+    - [ ] Calculadora de IMC em Python (https://www.youtube.com/watch?v=CrZkNmpPWVo)
