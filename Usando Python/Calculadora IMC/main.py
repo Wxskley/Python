@@ -40,6 +40,24 @@ app_linha = Label(
     fg=co1,
 )
 app_linha.place(x=0, y=35)
+
+
+def calcular():
+    peso = float(e_peso.get())
+    altura = float(e_altura.get())
+    imc = peso / altura**2
+    resultado = imc
+    if resultado < 18.5:
+        l_resultado_texto["text"] = "Seu IMC é: Abaixo do peso"
+    elif resultado >= 18.5 and resultado < 25:
+        l_resultado_texto["text"] = "Seu IMC é: Normal"
+    elif resultado >= 25 and resultado < 30:
+        l_resultado_texto["text"] = "Seu IMC é: Sobrepeso"
+    else:
+        l_resultado_texto["text"] = "Seu IMC é: Obesidade"
+    l_resultado["text"] = "{:.{}f}".format(resultado, 2)
+
+
 l_peso = Label(
     frame_baixo,
     text="Insira seu peso",
@@ -88,7 +106,7 @@ l_resultado = Label(
 l_resultado.place(x=175, y=10)
 l_resultado_texto = Label(
     frame_baixo,
-    text="O seu IMC é: abaixo do peso",
+    text="",
     width=37,
     height=1,
     padx=0,
@@ -102,6 +120,7 @@ l_resultado_texto = Label(
 l_resultado_texto.place(x=0, y=90)
 b_calcular = Button(
     frame_baixo,
+    command=calcular,
     text="Calcular",
     width=34,
     height=1,

@@ -139,4 +139,4 @@ Dia 6
 
 Dia 7
 - **Não pertence a nenhuma playlist**
-    - [ ] Calculadora de IMC em Python (https://www.youtube.com/watch?v=CrZkNmpPWVo)
+    - [x] Calculadora de IMC em Python (https://www.youtube.com/watch?v=CrZkNmpPWVo)
