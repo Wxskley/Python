@@ -85,5 +85,32 @@ l_resultado = Label(
     bg=co2,
     fg=co0,
 )
-l_resultado.place(x=170, y=10)
+l_resultado.place(x=175, y=10)
+l_resultado_texto = Label(
+    frame_baixo,
+    text="O seu IMC é: abaixo do peso",
+    width=37,
+    height=1,
+    padx=0,
+    pady=12,
+    relief="flat",
+    anchor="center",
+    font=("Ivy 10 bold"),
+    bg=co0,
+    fg=co1,
+)
+l_resultado_texto.place(x=0, y=90)
+b_calcular = Button(
+    frame_baixo,
+    text="Calcular",
+    width=34,
+    height=1,
+    overrelief=SOLID,
+    relief="raised",
+    anchor="center",
+    font=("Ivy 10 bold"),
+    bg=co2,
+    fg=co0,
+)
+b_calcular.grid(row=4, column=0, sticky=NSEW, pady=60, padx=5, columnspan=30)
 janela.mainloop()
