@@ -1,19 +1,29 @@
+# Importando as bibliotecas necessárias para a interface gráfica
 from tkinter import *
 from tkinter import ttk
 
-co0 = "#ffffff"
-co1 = "#444466"
-co2 = "#4065a1"
+# Definindo as cores utilizadas na interface
+co0 = "#ffffff"  # Branco
+co1 = "#444466"  # Azul escuro
+co2 = "#4065a1"  # Azul claro
+
+# Criando a janela da calculadora de IMC
 janela = Tk()
-janela.title("")
-janela.geometry("295x230")
-janela.configure(bg=co0)
+janela.title("")  # Define o título da janela
+janela.geometry("295x230")  # Define o tamanho da janela
+janela.configure(bg=co0)  # Define a cor de fundo da janela
+
+# Criando os frames (áreas) dentro da janela
 frame_cima = Frame(janela, width=295, height=50, bg=co0, pady=0, padx=0, relief="flat")
-frame_cima.grid(row=0, column=0, sticky=NSEW)
 frame_baixo = Frame(
     janela, width=295, height=180, bg=co0, pady=0, padx=0, relief="flat"
 )
+
+# Posicionando os frames na janela
+frame_cima.grid(row=0, column=0, sticky=NSEW)
 frame_baixo.grid(row=1, column=0, sticky=NSEW)
+
+# Criando o rótulo para o nome da aplicação
 app_nome = Label(
     frame_cima,
     text="Calculadora de IMC",
@@ -27,6 +37,8 @@ app_nome = Label(
     fg=co1,
 )
 app_nome.place(x=0, y=0)
+
+# Criando uma linha para separar visualmente a parte superior da inferior
 app_linha = Label(
     frame_cima,
     text="",
@@ -42,10 +54,16 @@ app_linha = Label(
 app_linha.place(x=0, y=35)
 
 
+# Função para calcular o IMC
 def calcular():
+    # Obtenção do peso e altura informados pelo usuário
     peso = float(e_peso.get())
     altura = float(e_altura.get())
+
+    # Cálculo do IMC
     imc = peso / altura**2
+
+    # Exibição do resultado do IMC e sua classificação
     resultado = imc
     if resultado < 18.5:
         l_resultado_texto["text"] = "Seu IMC é: Abaixo do peso"
@@ -55,9 +73,11 @@ def calcular():
         l_resultado_texto["text"] = "Seu IMC é: Sobrepeso"
     else:
         l_resultado_texto["text"] = "Seu IMC é: Obesidade"
+
     l_resultado["text"] = "{:.{}f}".format(resultado, 2)
 
 
+# Criação dos elementos da interface: rótulos, campos de entrada e botões
 l_peso = Label(
     frame_baixo,
     text="Insira seu peso",
@@ -69,11 +89,9 @@ l_peso = Label(
     bg=co0,
     fg=co1,
 )
-l_peso.grid(row=0, column=0, sticky=NSEW, pady=10, padx=3)
 e_peso = Entry(
     frame_baixo, width=5, relief="solid", font=("Ivy 10 bold"), justify="center"
 )
-e_peso.grid(row=0, column=1, sticky=NSEW, pady=10, padx=3)
 l_altura = Label(
     frame_baixo,
     text="Insira sua altura",
@@ -85,11 +103,9 @@ l_altura = Label(
     bg=co0,
     fg=co1,
 )
-l_altura.grid(row=1, column=0, sticky=NSEW, pady=10, padx=3)
 e_altura = Entry(
     frame_baixo, width=5, relief="solid", font=("Ivy 10 bold"), justify="center"
 )
-e_altura.grid(row=1, column=1, sticky=NSEW, pady=10, padx=3)
 l_resultado = Label(
     frame_baixo,
     text="---",
@@ -103,7 +119,6 @@ l_resultado = Label(
     bg=co2,
     fg=co0,
 )
-l_resultado.place(x=175, y=10)
 l_resultado_texto = Label(
     frame_baixo,
     text="",
@@ -117,7 +132,6 @@ l_resultado_texto = Label(
     bg=co0,
     fg=co1,
 )
-l_resultado_texto.place(x=0, y=90)
 b_calcular = Button(
     frame_baixo,
     command=calcular,
@@ -131,5 +145,15 @@ b_calcular = Button(
     bg=co2,
     fg=co0,
 )
+
+# Posicionando os elementos na interface
+l_peso.grid(row=0, column=0, sticky=NSEW, pady=10, padx=3)
+e_peso.grid(row=0, column=1, sticky=NSEW, pady=10, padx=3)
+l_altura.grid(row=1, column=0, sticky=NSEW, pady=10, padx=3)
+e_altura.grid(row=1, column=1, sticky=NSEW, pady=10, padx=3)
+l_resultado.place(x=175, y=10)
+l_resultado_texto.place(x=0, y=90)
 b_calcular.grid(row=4, column=0, sticky=NSEW, pady=60, padx=5, columnspan=30)
+
+# Iniciando a execução da interface
 janela.mainloop()
