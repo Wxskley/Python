@@ -153,5 +153,8 @@ Dia 7
     - [x] APIs
     - [x] Consumindo uma API de previsão do tempo
     - [x] Consumindo uma API de busca de repositórios do GitHub
-    - [ ] Interfaces gráficas
+    - [x] Interfaces gráficas
+    - [x] Criação de janela
+    - [x] Calculadora Simples com Tkinter
+    - [x] Aplicativo de Lista de Tarefas com PyQt
     - [ ] Análise de dados
