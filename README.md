@@ -145,7 +145,7 @@ Dia 7
     - [x] Consulta de dados de API assíncrona
     - [x] Execução paralela de corrotinas
     - [x] Banco de dados
-    - [x] Criando tabela 
+    - [x] Criação de tabela
     - [x] Inserção de dados (Create)
     - [x] Consulta de dados (Read)
     - [x] Atualização de dados (Update)
