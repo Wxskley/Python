@@ -140,3 +140,11 @@ Dia 6
 Dia 7
 - **Não pertence a nenhuma playlist**
     - [x] Calculadora de IMC em Python (https://www.youtube.com/watch?v=CrZkNmpPWVo)
+- **ChatGPT**
+    - [x] Programação assíncrona
+    - [x] Consulta de dados de API assíncrona
+    - [x] Execução paralela de corrotinas
+    - [ ] Banco de dados
+    - [ ] APIs
+    - [ ] Interfaces gráficas
+    - [ ] Análise de dados
