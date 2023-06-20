@@ -150,6 +150,8 @@ Dia 7
     - [x] Consulta de dados (Read)
     - [x] Atualização de dados (Update)
     - [x] Exclusão de dados (Delete)
-    - [ ] APIs
+    - [x] APIs
+    - [x] Consumindo uma API de previsão do tempo
+    - [x] Consumindo uma API de busca de repositórios do GitHub
     - [ ] Interfaces gráficas
     - [ ] Análise de dados
