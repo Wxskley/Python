@@ -157,4 +157,11 @@ Dia 7
     - [x] Criação de janela
     - [x] Calculadora Simples com Tkinter
     - [x] Aplicativo de Lista de Tarefas com PyQt
-    - [ ] Análise de dados
+    - [x] Análise de dados
+    - [x] Exemplo com Pandas - Criação de CSV
+    - [x] Exemplo com Pandas - Leitura CSV
+    - [x] Cálculo de estatísticas básicas - Pandas
+    - [x] Exemplo com NumPy - Operações
+    - [x] Exemplo de manipulação de arrays com NumPy
+    - [x] Exemplo com Matplotlib - Gráfico de dispersão
+    - [x] Exemplo de plotagem de gráfico de linha com Matplotlib
