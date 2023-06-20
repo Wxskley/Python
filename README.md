@@ -144,7 +144,12 @@ Dia 7
     - [x] Programação assíncrona
     - [x] Consulta de dados de API assíncrona
     - [x] Execução paralela de corrotinas
-    - [ ] Banco de dados
+    - [x] Banco de dados
+    - [x] Criando tabela 
+    - [x] Inserção de dados (Create)
+    - [x] Consulta de dados (Read)
+    - [x] Atualização de dados (Update)
+    - [x] Exclusão de dados (Delete)
     - [ ] APIs
     - [ ] Interfaces gráficas
     - [ ] Análise de dados
