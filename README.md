@@ -186,3 +186,6 @@ Dia 8
     - [x] Detecção de anomalias em dados tabulares com LOF
     - [x] Detecção de anomalias em dados unidimensionais com LOF
     - [x] Detecção de anomalias em dados de imagem com LOF
+    - [x] Detecção de anomalias em dados tabulares usando One-Class SVM
+    - [x] Detecção de anomalias em dados unidimensionais usando One-Class SVM
+    - [x] Detecção de anomalias em imagens usando One-Class SVM
