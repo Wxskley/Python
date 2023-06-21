@@ -175,4 +175,7 @@ Dia 8
     - [x] Agrupamento de Pontos em um Espaço 2D
     - [x] Agrupamento de Imagens em Tons de Cinza usando Pixels como Recursos
     - [x] Agrupamento de Documentos Usando Vetores TF-IDF
+    - [x] Redução de dimensionalidade com PCA
+    - [x] Visualização dos componentes principais com PCA
+    - [x] Reconstrução dos dados originais após PCA
 
