@@ -183,3 +183,6 @@ Dia 8
     - [x] Exemplo de Detecção de Anomalias com Isolation Forest
     - [x] Visualização de Anomalias com Isolation Forest
     - [x] Detecção de Anomalias em Dados Tabulares com Isolation Forest
+    - [x] Detecção de anomalias em dados tabulares com LOF
+    - [x] Detecção de anomalias em dados unidimensionais com LOF
+    - [x] Detecção de anomalias em dados de imagem com LOF
