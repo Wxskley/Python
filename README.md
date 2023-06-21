@@ -189,3 +189,6 @@ Dia 8
     - [x] Detecção de anomalias em dados tabulares usando One-Class SVM
     - [x] Detecção de anomalias em dados unidimensionais usando One-Class SVM
     - [x] Detecção de anomalias em imagens usando One-Class SVM
+    - [x] Autoencoder
+    - [x] Mapas Auto-Organizáveis (SOM)
+    - [x] Redes Neurais Competitivas (Competitive Neural Networks)
