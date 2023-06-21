@@ -169,6 +169,10 @@ Dia 7
 Dia 8
 - **ChatGPT**
     - [x] Machine Learning
-    - [x] Exemplo de aprendizado supervisionado
-    - [x] Exemplo de aprendizado supervisionado de regressão linear
-    - [x] Exemplo de aprendizado supervisionado de regressão linear com matplotlib (Gráfico de Dispersão)
+    - [x] Aprendizado supervisionado
+    - [x] Aprendizado supervisionado de regressão linear
+    - [x] Aprendizado supervisionado de regressão linear com matplotlib (Gráfico de Dispersão)
+    - [x] Agrupamento de Pontos em um Espaço 2D
+    - [x] Agrupamento de Imagens em Tons de Cinza usando Pixels como Recursos
+    - [x] Agrupamento de Documentos Usando Vetores TF-IDF
+
