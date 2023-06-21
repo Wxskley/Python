@@ -180,5 +180,6 @@ Dia 8
     - [x] Reconstrução dos dados originais após PCA
     - [x] Algoritmo Apriori
     - [x] Algoritmo FP-Growth
-    - [ ] Algoritmo Eclat
-
+    - [x] Exemplo de Detecção de Anomalias com Isolation Forest
+    - [x] Visualização de Anomalias com Isolation Forest
+    - [x] Detecção de Anomalias em Dados Tabulares com Isolation Forest
