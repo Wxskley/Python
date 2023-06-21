@@ -165,3 +165,10 @@ Dia 7
     - [x] Exemplo de manipulação de arrays com NumPy
     - [x] Exemplo com Matplotlib - Gráfico de dispersão
     - [x] Exemplo de plotagem de gráfico de linha com Matplotlib
+
+Dia 8
+- **ChatGPT**
+    - [x] Machine Learning
+    - [x] Exemplo de aprendizado supervisionado
+    - [x] Exemplo de aprendizado supervisionado de regressão linear
+    - [x] Exemplo de aprendizado supervisionado de regressão linear com matplotlib (Gráfico de Dispersão)
