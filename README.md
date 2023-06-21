@@ -178,4 +178,7 @@ Dia 8
     - [x] Redução de dimensionalidade com PCA
     - [x] Visualização dos componentes principais com PCA
     - [x] Reconstrução dos dados originais após PCA
+    - [x] Algoritmo Apriori
+    - [x] Algoritmo FP-Growth
+    - [ ] Algoritmo Eclat
 
