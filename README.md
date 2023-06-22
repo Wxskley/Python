@@ -201,6 +201,15 @@ Dia 9
     - [x] Actor-Critic
     - [x] Proximal Policy Optimization (PPO)
     - [x] Automação com RPA em Python
+    - [x] Soma de Dois Números
+    - [x] Média de Três Números
+    - [x] Verificar se um Número é Par ou Ímpar
+    - [x] Encontrar o Maior entre Três Números
+    - [x] Cálculo do Fatorial de um Número
+    - [x] Verificar se um Número é Primo
+    - [x] Inverter uma String
+    - [x] Converter uma String para Maiúsculo
+    - [x] Tabuada de um Número
+    - [ ] Sequência de Fibonacci
 - **Não pertence a nenhuma playlist**
     - [x] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
-    - [ ] Como Criar um Bot de Telegram com Python (https://www.youtube.com/watch?v=_RQw5Nw7Op0)
