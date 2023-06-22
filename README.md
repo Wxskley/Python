@@ -195,8 +195,8 @@ Dia 8
 
 Dia 9
 - **ChatGPT**
-    - [ ] Q-Learning
-    - [ ] SARSA
+    - [x] Q-Learning
+    - [x] Deep Q-Network (DQN)
     - [ ] Algoritmo Genético
     - [ ] Actor-Critic
     - [ ] Proximal Policy Optimization (PPO)
