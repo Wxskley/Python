@@ -219,5 +219,6 @@ Dia 9
     - [x] Jogo de Adivinhação
     - [x] Cálculo do Fatorial Recursivo
     - [x] Calculadora Simples
+    - [x] Algoritmo de divisão e conquista - Merge Sort
 - **Não pertence a nenhuma playlist**
     - [x] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
