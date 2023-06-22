@@ -210,6 +210,6 @@ Dia 9
     - [x] Inverter uma String
     - [x] Converter uma String para Maiúsculo
     - [x] Tabuada de um Número
-    - [ ] Sequência de Fibonacci
+    - [x] Sequência de Fibonacci
 - **Não pertence a nenhuma playlist**
     - [x] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
