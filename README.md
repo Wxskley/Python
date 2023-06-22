@@ -197,7 +197,7 @@ Dia 9
 - **ChatGPT**
     - [x] Q-Learning
     - [x] Deep Q-Network (DQN)
-    - [ ] Algoritmo Genético
+    - [x] Algoritmo Genético
     - [ ] Actor-Critic
     - [ ] Proximal Policy Optimization (PPO)
 - **Não pertence a nenhuma playlist**
