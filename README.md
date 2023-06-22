@@ -211,5 +211,10 @@ Dia 9
     - [x] Converter uma String para Maiúsculo
     - [x] Tabuada de um Número
     - [x] Sequência de Fibonacci
+    - [x] Verificar se uma String é um Palíndromo
+    - [x] Busca Binária em uma Lista Ordenada
+    - [x] Ordenação de uma Lista pelo Método da Bolha
+    - [x] Conversão de Temperatura
+    - [x] Calendário do Mês
 - **Não pertence a nenhuma playlist**
     - [x] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
