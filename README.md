@@ -192,3 +192,14 @@ Dia 8
     - [x] Autoencoder
     - [x] Mapas Auto-Organizáveis (SOM)
     - [x] Redes Neurais Competitivas (Competitive Neural Networks)
+
+Dia 9
+- **ChatGPT**
+    - [ ] Q-Learning
+    - [ ] SARSA
+    - [ ] Algoritmo Genético
+    - [ ] Actor-Critic
+    - [ ] Proximal Policy Optimization (PPO)
+- **Não pertence a nenhuma playlist**
+    - [ ] Curso Python Tkinter - Como criar uma tela de login em Tkinter
+    - [ ] Curso Python Tkinter - Cronômetro em Python
