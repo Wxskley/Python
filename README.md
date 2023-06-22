@@ -200,8 +200,7 @@ Dia 9
     - [x] Algoritmo Genético
     - [x] Actor-Critic
     - [x] Proximal Policy Optimization (PPO)
+    - [x] Automação com RPA em Python
 - **Não pertence a nenhuma playlist**
     - [x] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
-    - [ ] Curso Python Tkinter - Cronômetro em Python (https://www.youtube.com/watch?v=-UQCLfrqO8g)
-    - [ ] Como Criar Aplicativos e Programas com Python - Introdução ao Kivy (https://www.youtube.com/watch?v=NkBcU8biV4s)
     - [ ] Como Criar um Bot de Telegram com Python (https://www.youtube.com/watch?v=_RQw5Nw7Op0)
