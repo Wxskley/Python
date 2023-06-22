@@ -199,7 +199,7 @@ Dia 9
     - [x] Deep Q-Network (DQN)
     - [x] Algoritmo Genético
     - [x] Actor-Critic
-    - [ ] Proximal Policy Optimization (PPO)
+    - [x] Proximal Policy Optimization (PPO)
 - **Não pertence a nenhuma playlist**
     - [ ] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
     - [ ] Curso Python Tkinter - Cronômetro em Python (https://www.youtube.com/watch?v=-UQCLfrqO8g)
