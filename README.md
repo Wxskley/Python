@@ -216,5 +216,8 @@ Dia 9
     - [x] Ordenação de uma Lista pelo Método da Bolha
     - [x] Conversão de Temperatura
     - [x] Calendário do Mês
+    - [x] Jogo de Adivinhação
+    - [x] Cálculo do Fatorial Recursivo
+    - [x] Calculadora Simples
 - **Não pertence a nenhuma playlist**
     - [x] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
