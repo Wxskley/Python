@@ -226,10 +226,10 @@ Dia 9
 Dia 10
 - **ChatGPT**
     - [x] Verificar se um número é primo
-    - [ ] Ordenação de uma lista de números
-    - [ ] Cálculo do fatorial de um número
-    - [ ] Verificar se uma string é um palíndromo
-    - [ ] Cálculo do máximo divisor comum (MDC) entre dois números
+    - [x] Ordenação de uma lista de números
+    - [x] Cálculo do fatorial de um número
+    - [x] Verificar se uma string é um palíndromo
+    - [x] Cálculo do máximo divisor comum (MDC) entre dois números
     - [ ] Cálculo do mínimo múltiplo comum (MMC) entre dois números
     - [ ] Verificar se uma lista contém elementos duplicados
     - [ ] Contar o número de ocorrências de cada elemento em uma lista
