@@ -245,3 +245,4 @@ Dia 10
     - [x] Remover elementos duplicados de uma lista
     - [x] Contar o número de caracteres em uma string (considerando espaços em branco)
     - [x] Calcular o número de dias entre duas datas
+    - [x] Algoritmo de Ordenação - Merge Sort
