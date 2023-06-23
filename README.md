@@ -233,8 +233,8 @@ Dia 10
     - [x] Cálculo do mínimo múltiplo comum (MMC) entre dois números
     - [x] Verificar se uma lista contém elementos duplicados
     - [x] Contar o número de ocorrências de cada elemento em uma lista
-    - [ ] Verificar se duas strings são anagramas
-    - [ ] Encontrar o valor máximo e mínimo em uma lista
+    - [x] Verificar se duas strings são anagramas
+    - [x] Encontrar o valor máximo e mínimo em uma lista
     - [ ] Verificar se uma lista está ordenada de forma crescente
     - [ ] Verificar se uma lista é um subconjunto de outra lista
     - [ ] Inverter uma string
