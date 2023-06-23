@@ -248,3 +248,5 @@ Dia 10
     - [x] Algoritmo de Ordenação - Merge Sort
     - [x] Estrutura de Dados - Árvore Binária de Busca
     - [x] Programação Dinâmica - Problema da Mochila 0/1
+    - [x] Algoritmo de Grafos - Busca em Largura (BFS)
+    - [ ] Algoritmo de Grafos - Busca em Profundidade (DFS)
