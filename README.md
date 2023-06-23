@@ -246,3 +246,5 @@ Dia 10
     - [x] Contar o número de caracteres em uma string (considerando espaços em branco)
     - [x] Calcular o número de dias entre duas datas
     - [x] Algoritmo de Ordenação - Merge Sort
+    - [x] Estrutura de Dados - Árvore Binária de Busca
+    - [x] Programação Dinâmica - Problema da Mochila 0/1
