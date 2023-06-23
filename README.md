@@ -222,3 +222,26 @@ Dia 9
     - [x] Algoritmo de divisão e conquista - Merge Sort
 - **Não pertence a nenhuma playlist**
     - [x] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
+
+Dia 10
+- **ChatGPT**
+    - [x] Verificar se um número é primo
+    - [ ] Ordenação de uma lista de números
+    - [ ] Cálculo do fatorial de um número
+    - [ ] Verificar se uma string é um palíndromo
+    - [ ] Cálculo do máximo divisor comum (MDC) entre dois números
+    - [ ] Cálculo do mínimo múltiplo comum (MMC) entre dois números
+    - [ ] Verificar se uma lista contém elementos duplicados
+    - [ ] Contar o número de ocorrências de cada elemento em uma lista
+    - [ ] Verificar se duas strings são anagramas
+    - [ ] Encontrar o valor máximo e mínimo em uma lista
+    - [ ] Verificar se uma lista está ordenada de forma crescente
+    - [ ] Verificar se uma lista é um subconjunto de outra lista
+    - [ ] Inverter uma string
+    - [ ] Contar o número de vogais em uma string
+    - [ ] Gerar os primeiros N números da sequência de Fibonacci
+    - [ ] Calcular a média dos elementos em uma lista
+    - [ ] Verificar se um número é uma potência de 2
+    - [ ] Remover elementos duplicados de uma lista
+    - [ ] Contar o número de caracteres em uma string (considerando espaços em branco)
+    - [ ] Calcular o número de dias entre duas datas
