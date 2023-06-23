@@ -250,3 +250,8 @@ Dia 10
     - [x] Programação Dinâmica - Problema da Mochila 0/1
     - [x] Algoritmo de Grafos - Busca em Largura (BFS)
     - [x] Algoritmo de Grafos - Busca em Profundidade (DFS)
+    - [x] Programação Orientada a Objetos - Herança e Polimorfismo
+    - [x] Programação Funcional - Map, Filter e Reduce
+    - [x] Manipulação de Arquivos - Leitura e Escrita
+    - [x] Programação Assíncrona - Tarefas Assíncronas
+    - [x] Integração de API - Web Scraping
