@@ -249,4 +249,4 @@ Dia 10
     - [x] Estrutura de Dados - Árvore Binária de Busca
     - [x] Programação Dinâmica - Problema da Mochila 0/1
     - [x] Algoritmo de Grafos - Busca em Largura (BFS)
-    - [ ] Algoritmo de Grafos - Busca em Profundidade (DFS)
+    - [x] Algoritmo de Grafos - Busca em Profundidade (DFS)
