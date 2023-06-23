@@ -235,11 +235,11 @@ Dia 10
     - [x] Contar o número de ocorrências de cada elemento em uma lista
     - [x] Verificar se duas strings são anagramas
     - [x] Encontrar o valor máximo e mínimo em uma lista
-    - [ ] Verificar se uma lista está ordenada de forma crescente
-    - [ ] Verificar se uma lista é um subconjunto de outra lista
-    - [ ] Inverter uma string
-    - [ ] Contar o número de vogais em uma string
-    - [ ] Gerar os primeiros N números da sequência de Fibonacci
+    - [x] Verificar se uma lista está ordenada de forma crescente
+    - [x] Verificar se uma lista é um subconjunto de outra lista
+    - [x] Inverter uma string
+    - [x] Contar o número de vogais em uma string
+    - [x] Gerar os primeiros N números da sequência de Fibonacci
     - [ ] Calcular a média dos elementos em uma lista
     - [ ] Verificar se um número é uma potência de 2
     - [ ] Remover elementos duplicados de uma lista
