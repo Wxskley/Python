@@ -240,8 +240,8 @@ Dia 10
     - [x] Inverter uma string
     - [x] Contar o número de vogais em uma string
     - [x] Gerar os primeiros N números da sequência de Fibonacci
-    - [ ] Calcular a média dos elementos em uma lista
-    - [ ] Verificar se um número é uma potência de 2
-    - [ ] Remover elementos duplicados de uma lista
-    - [ ] Contar o número de caracteres em uma string (considerando espaços em branco)
-    - [ ] Calcular o número de dias entre duas datas
+    - [x] Calcular a média dos elementos em uma lista
+    - [x] Verificar se um número é uma potência de 2
+    - [x] Remover elementos duplicados de uma lista
+    - [x] Contar o número de caracteres em uma string (considerando espaços em branco)
+    - [x] Calcular o número de dias entre duas datas
