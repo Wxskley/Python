@@ -230,9 +230,9 @@ Dia 10
     - [x] Cálculo do fatorial de um número
     - [x] Verificar se uma string é um palíndromo
     - [x] Cálculo do máximo divisor comum (MDC) entre dois números
-    - [ ] Cálculo do mínimo múltiplo comum (MMC) entre dois números
-    - [ ] Verificar se uma lista contém elementos duplicados
-    - [ ] Contar o número de ocorrências de cada elemento em uma lista
+    - [x] Cálculo do mínimo múltiplo comum (MMC) entre dois números
+    - [x] Verificar se uma lista contém elementos duplicados
+    - [x] Contar o número de ocorrências de cada elemento em uma lista
     - [ ] Verificar se duas strings são anagramas
     - [ ] Encontrar o valor máximo e mínimo em uma lista
     - [ ] Verificar se uma lista está ordenada de forma crescente
