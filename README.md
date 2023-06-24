@@ -270,4 +270,15 @@ Dia 11
     - [x] Algoritmo de Regressão Linear
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     - [x] Curso Python #11 - Cores no Terminal
-    - [ ] Mundo 02 - Curso de Python - Dicas e Regras
+    - [x] Mundo 02 - Curso de Python - Dicas e Regras
+    - [x] Curso Python #012 - Condições Aninhadas
+    - [x] Exercício Python #036 - Aprovando Empréstimo
+    - [x] Exercício Python #037 - Conversor de Bases Numéricas
+    - [x] Exercício Python #038 - Comparando números
+    - [x] Exercício Python #039 - Alistamento Militar
+    - [x] Exercício Python #040 - Aquele clássico da Média
+    - [ ] 
+    - [ ] 
+    - [ ] 
+    - [ ] 
+    - [ ] 
