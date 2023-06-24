@@ -268,6 +268,11 @@ Dia 11
     - [x] Algoritmo de Busca em Profundidade (DFS)
     - [x] Algoritmo de Kruskal para Árvore Geradora Mínima
     - [x] Algoritmo de Regressão Linear
+    - [x] Cálculo do fatorial
+    - [x] Verificar se um número é primo
+    - [x] Cálculo da média de uma lista
+    - [x] Contagem de palavras
+    - [x] Inverter uma string
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     - [x] Curso Python #11 - Cores no Terminal
     - [x] Mundo 02 - Curso de Python - Dicas e Regras
