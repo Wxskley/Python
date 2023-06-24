@@ -1,4 +1,3 @@
-# Algoritmo 4: Cálculo do fatorial
 # Nível de dificuldade: 25%
 num = int(input("Digite um número: "))
 resultado = 1

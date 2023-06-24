@@ -1,4 +1,3 @@
-# Algoritmo 5: Verificar se um número é primo
 # Nível de dificuldade: 30%
 num = int(input("Digite um número: "))
 primo = True

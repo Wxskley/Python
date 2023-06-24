@@ -273,6 +273,11 @@ Dia 11
     - [x] Cálculo da média de uma lista
     - [x] Contagem de palavras
     - [x] Inverter uma string
+    - [x] Cálculo da área de um círculo
+    - [x] Buscar um elemento em uma lista
+    - [x] Validação de e-mail
+    - [x] Contagem de vogais
+    - [x] Verificação de palíndromo
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     - [x] Curso Python #11 - Cores no Terminal
     - [x] Mundo 02 - Curso de Python - Dicas e Regras

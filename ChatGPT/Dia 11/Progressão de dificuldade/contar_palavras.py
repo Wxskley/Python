@@ -1,4 +1,3 @@
-# Algoritmo 7: Contagem de palavras
 # Nível de dificuldade: 40%
 frase = input("Digite uma frase: ")
 palavras = frase.split()
