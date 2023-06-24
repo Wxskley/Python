@@ -258,13 +258,15 @@ Dia 10
 
 Dia 11
 - **ChatGPT**
-    - [ ] Algoritmo de Ordenação por Inserção
-    - [ ] Algoritmo de Busca Binária
-    - [ ] Algoritmo de Cifra de César
-    - [ ] Algoritmo de Verificação de Palíndromo
-    - [ ] Algoritmo de Números Primos
-    - [ ] Algoritmo de Multiplicação de Matrizes
-    - [ ] Algoritmo de Fibonacci
-    - [ ] Algoritmo de Busca em Profundidade (DFS)
-    - [ ] Algoritmo de Kruskal para Árvore Geradora Mínima
-    - [ ] Algoritmo de Regressão Linear
+    - [x] Algoritmo de Ordenação por Inserção
+    - [x] Algoritmo de Busca Binária
+    - [x] Algoritmo de Cifra de César
+    - [x] Algoritmo de Verificação de Palíndromo
+    - [x] Algoritmo de Números Primos
+    - [x] Algoritmo de Multiplicação de Matrizes
+    - [x] Algoritmo de Fibonacci
+    - [x] Algoritmo de Busca em Profundidade (DFS)
+    - [x] Algoritmo de Kruskal para Árvore Geradora Mínima
+    - [x] Algoritmo de Regressão Linear
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+    - [ ] Curso Python #11 - Cores no Terminal
