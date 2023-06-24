@@ -269,4 +269,5 @@ Dia 11
     - [x] Algoritmo de Kruskal para Árvore Geradora Mínima
     - [x] Algoritmo de Regressão Linear
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-    - [ ] Curso Python #11 - Cores no Terminal
+    - [x] Curso Python #11 - Cores no Terminal
+    - [ ] Mundo 02 - Curso de Python - Dicas e Regras
