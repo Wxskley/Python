@@ -277,8 +277,8 @@ Dia 11
     - [x] Exercício Python #038 - Comparando números
     - [x] Exercício Python #039 - Alistamento Militar
     - [x] Exercício Python #040 - Aquele clássico da Média
-    - [ ] 
-    - [ ] 
-    - [ ] 
-    - [ ] 
-    - [ ] 
+    - [x] Python Exercício #041 - Classificando Atletas
+    - [x] Exercício Python #042 - Analisando Triângulos v2.0
+    - [x] Exercício Python #043 - Índice de Massa Corporal
+    - [x] Exercício Python #044 - Gerenciador de Pagamentos
+    - [x] Exercício Python #045 - GAME: Pedra Papel e Tesoura
