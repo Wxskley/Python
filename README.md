@@ -255,3 +255,16 @@ Dia 10
     - [x] Manipulação de Arquivos - Leitura e Escrita
     - [x] Programação Assíncrona - Tarefas Assíncronas
     - [x] Integração de API - Web Scraping
+
+Dia 11
+- **ChatGPT**
+    - [ ] Algoritmo de Ordenação por Inserção
+    - [ ] Algoritmo de Busca Binária
+    - [ ] Algoritmo de Cifra de César
+    - [ ] Algoritmo de Verificação de Palíndromo
+    - [ ] Algoritmo de Números Primos
+    - [ ] Algoritmo de Multiplicação de Matrizes
+    - [ ] Algoritmo de Fibonacci
+    - [ ] Algoritmo de Busca em Profundidade (DFS)
+    - [ ] Algoritmo de Kruskal para Árvore Geradora Mínima
+    - [ ] Algoritmo de Regressão Linear
