@@ -324,3 +324,4 @@ Dia 12
     - [x] Exemplo de aplicativo Kivy com BoxLayout
     - [x] Exemplo de aplicativo Kivy com FloatLayout
     - [x] Exemplo de aplicativo Kivy com Eventos
+    - [x] Exemplo de personalização de widgets no Kivy
