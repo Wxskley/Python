@@ -292,3 +292,26 @@ Dia 11
     - [x] Exercício Python #043 - Índice de Massa Corporal
     - [x] Exercício Python #044 - Gerenciador de Pagamentos
     - [x] Exercício Python #045 - GAME: Pedra Papel e Tesoura
+
+Dia 12
+- **ChatGPT**
+    - [ ] Contagem de palavras
+    - [ ] Quadrado de um número
+    - [ ] Ordenação de listas
+    - [ ] Soma de elementos
+    - [ ] Busca linear
+    - [ ] Números primos
+    - [ ] Fatorial
+    - [ ] Par ou ímpar
+    - [ ] Sequência de Fibonacci
+    - [ ] Números perfeitos
+    - [ ] Anagramas
+    - [ ] Palíndromos
+    - [ ] Números de Armstrong
+    - [ ] Máximo Divisor Comum (MDC)
+    - [ ] Conversão Decimal para Binário
+    - [ ] Média Aritmética
+    - [ ] Números felizes
+    - [ ] Área de um círculo
+    - [ ] Números primos de Mersenne
+    - [ ] Números de Harshad
