@@ -317,3 +317,5 @@ Dia 12
     - [x] Números de Harshad
     - [x] Exemplo básico de aplicativo Kivy
     - [x] Exemplo de aplicativo Kivy com botão
+    - [x] Exemplo de aplicativo Kivy com GridLayout
+    - [x] Exemplo avançado de aplicativo Kivy com layouts aninhados
