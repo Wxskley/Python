@@ -325,3 +325,4 @@ Dia 12
     - [x] Exemplo de aplicativo Kivy com FloatLayout
     - [x] Exemplo de aplicativo Kivy com Eventos
     - [x] Exemplo de personalização de widgets no Kivy
+    - [x] Exemplo de Gerenciamento de Telas no Kivy
