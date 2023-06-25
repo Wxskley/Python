@@ -300,13 +300,13 @@ Dia 12
     - [x] Ordenação de listas
     - [x] Soma de elementos
     - [x] Busca linear
-    - [ ] Números primos
-    - [ ] Fatorial
-    - [ ] Par ou ímpar
-    - [ ] Sequência de Fibonacci
-    - [ ] Números perfeitos
-    - [ ] Anagramas
-    - [ ] Palíndromos
+    - [x] Números primos
+    - [x] Fatorial
+    - [x] Par ou ímpar
+    - [x] Sequência de Fibonacci
+    - [x] Números perfeitos
+    - [x] Anagramas
+    - [x] Palíndromos
     - [ ] Números de Armstrong
     - [ ] Máximo Divisor Comum (MDC)
     - [ ] Conversão Decimal para Binário
