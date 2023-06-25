@@ -328,3 +328,4 @@ Dia 12
     - [x] Exemplo de Gerenciamento de Telas no Kivy
     - [x] Exemplo de Criação de Pop-up no Kivy
     - [x] Exemplo de Personalização de Estilos no Kivy
+    - [x] Exemplo de Uso de Widgets Avançados no Kivy
