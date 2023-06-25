@@ -315,3 +315,5 @@ Dia 12
     - [x] Área de um círculo
     - [x] Números primos de Mersenne
     - [x] Números de Harshad
+    - [x] Exemplo básico de aplicativo Kivy
+    - [x] Exemplo de aplicativo Kivy com botão
