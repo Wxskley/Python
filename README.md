@@ -319,3 +319,4 @@ Dia 12
     - [x] Exemplo de aplicativo Kivy com botão
     - [x] Exemplo de aplicativo Kivy com GridLayout
     - [x] Exemplo avançado de aplicativo Kivy com layouts aninhados
+    - [x] Exemplo de aplicativo Kivy com TextInput e Button
