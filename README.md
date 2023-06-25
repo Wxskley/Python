@@ -329,3 +329,4 @@ Dia 12
     - [x] Exemplo de Criação de Pop-up no Kivy
     - [x] Exemplo de Personalização de Estilos no Kivy
     - [x] Exemplo de Uso de Widgets Avançados no Kivy
+    - [x] Exemplo de Uso de Layouts Avançados
