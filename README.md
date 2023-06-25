@@ -307,11 +307,11 @@ Dia 12
     - [x] Números perfeitos
     - [x] Anagramas
     - [x] Palíndromos
-    - [ ] Números de Armstrong
-    - [ ] Máximo Divisor Comum (MDC)
-    - [ ] Conversão Decimal para Binário
-    - [ ] Média Aritmética
-    - [ ] Números felizes
-    - [ ] Área de um círculo
-    - [ ] Números primos de Mersenne
-    - [ ] Números de Harshad
+    - [x] Números de Armstrong
+    - [x] Máximo Divisor Comum (MDC)
+    - [x] Conversão Decimal para Binário
+    - [x] Média Aritmética
+    - [x] Números felizes
+    - [x] Área de um círculo
+    - [x] Números primos de Mersenne
+    - [x] Números de Harshad
