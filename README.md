@@ -295,11 +295,11 @@ Dia 11
 
 Dia 12
 - **ChatGPT**
-    - [ ] Contagem de palavras
-    - [ ] Quadrado de um número
-    - [ ] Ordenação de listas
-    - [ ] Soma de elementos
-    - [ ] Busca linear
+    - [x] Contagem de palavras
+    - [x] Quadrado de um número
+    - [x] Ordenação de listas
+    - [x] Soma de elementos
+    - [x] Busca linear
     - [ ] Números primos
     - [ ] Fatorial
     - [ ] Par ou ímpar
