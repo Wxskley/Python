@@ -327,3 +327,4 @@ Dia 12
     - [x] Exemplo de personalização de widgets no Kivy
     - [x] Exemplo de Gerenciamento de Telas no Kivy
     - [x] Exemplo de Criação de Pop-up no Kivy
+    - [x] Exemplo de Personalização de Estilos no Kivy
