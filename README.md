@@ -342,3 +342,5 @@ Dia 13
     - [x] Exemplo de Personalização de Widgets
     - [x] Exemplo de Entrada de Texto
     - [x] Exemplo de uso do SQLite em Python
+    - [x] Exemplo de criação de uma API com Flask
+    - [x] Executando Comandos do Sistema Operacional
