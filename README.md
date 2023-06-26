@@ -337,3 +337,6 @@ Dia 13
     - [x] Exemplo de Uso de Persistência de Dados em Kivy
     - [x] Exemplo de Comunicação em Tempo Real com WebSocket
     - [x] Exemplo de Implementação de um Chat em Tempo Real
+    - [x] Exemplo de integração do ChatterBot no Kivy
+    - [x] Exemplo de Integração com a biblioteca Pillow
+    
