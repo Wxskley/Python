@@ -335,3 +335,5 @@ Dia 13
 - **ChatGPT**
     - [x] Exemplo de Uso de Animações no Kivy
     - [x] Exemplo de Uso de Persistência de Dados em Kivy
+    - [x] Exemplo de Comunicação em Tempo Real com WebSocket
+    - [x] Exemplo de Implementação de um Chat em Tempo Real
