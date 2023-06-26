@@ -341,3 +341,4 @@ Dia 13
     - [x] Exemplo de Integração com a biblioteca Pillow
     - [x] Exemplo de Personalização de Widgets
     - [x] Exemplo de Entrada de Texto
+    - [x] Exemplo de uso do SQLite em Python
