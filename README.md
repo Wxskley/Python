@@ -346,5 +346,4 @@ Dia 13
     - [x] Executando Comandos do Sistema Operacional
     - [x] Enviando Emails com Python
     - [x] Renomeando arquivos em lote
-    - [x] tela inicial do projeto da barbearia
-    - [x] tela de cadastro do projeto da barbearia
+    - [x] Exemplo de Aplicativo Web com Flask
