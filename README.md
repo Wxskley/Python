@@ -330,3 +330,8 @@ Dia 12
     - [x] Exemplo de Personalização de Estilos no Kivy
     - [x] Exemplo de Uso de Widgets Avançados no Kivy
     - [x] Exemplo de Uso de Layouts Avançados
+
+Dia 13
+- **ChatGPT**
+    - [x] Exemplo de Uso de Animações no Kivy
+    - [x] Exemplo de Uso de Persistência de Dados em Kivy
