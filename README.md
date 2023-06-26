@@ -339,4 +339,5 @@ Dia 13
     - [x] Exemplo de Implementação de um Chat em Tempo Real
     - [x] Exemplo de integração do ChatterBot no Kivy
     - [x] Exemplo de Integração com a biblioteca Pillow
-    
+    - [x] Exemplo de Personalização de Widgets
+    - [x] Exemplo de Entrada de Texto
