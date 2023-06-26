@@ -344,3 +344,4 @@ Dia 13
     - [x] Exemplo de uso do SQLite em Python
     - [x] Exemplo de criação de uma API com Flask
     - [x] Executando Comandos do Sistema Operacional
+    - [x] Enviando Emails com Python
