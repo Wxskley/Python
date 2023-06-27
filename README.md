@@ -362,3 +362,13 @@ Dia 14
     - [x] Exercício Python #054 - Grupo da Maioridade
     - [x] Exercício Python #055 - Maior e menor da sequência
     - [x] Exercício Python #056 - Analisador completo
+    - [x] Curso Python #014 - Estrutura de repetição while
+    - [x] Exercício Python #057 - Validação de Dados
+    - [x] Exercício Python #058 - Jogo da Adivinhação v2.0
+    - [x] Exercício Python #059 - Criando um Menu de Opções
+    - [x] Exercício Python #060 - Cálculo do Fatorial
+    - [x] Exercício Python #061 - Progressão Aritmética v2.0
+    - [x] Exercício Python #062 - Super Progressão Aritmética v3.0
+    - [x] Exercício Python #063 - Sequência de Fibonacci v1.0
+    - [x] Exercício Python #064 - Tratando vários valores v1.0
+    - [x] Exercício Python #065 - Maior e Menor valores
