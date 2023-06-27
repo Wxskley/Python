@@ -347,3 +347,7 @@ Dia 13
     - [x] Enviando Emails com Python
     - [x] Renomeando arquivos em lote
     - [x] Exemplo de Aplicativo Web com Flask
+
+Dia 14
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+    - [ ] Curso Python #013 - Estrutura de repetição for

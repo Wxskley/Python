@@ -4,7 +4,7 @@ import pygame
 pygame.mixer.init()
 
 # Carrega o arquivo de áudio
-pygame.mixer.music.load(r"Curso em vídeo - Python\\ex021\\barulhoMiranhaEx021.mp3")
+pygame.mixer.music.load(r"Curso em vídeo - Python\ex021\barulhoMiranhaEx021.mp3")
 
 
 # Reproduz o áudio
