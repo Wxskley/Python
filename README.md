@@ -350,4 +350,15 @@ Dia 13
 
 Dia 14
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-    - [ ] Curso Python #013 - Estrutura de repetição for
+    - [x] Curso Python #013 - Estrutura de repetição for
+    - [x] Exercício Python #046 - Contagem regressiva
+    - [x] Exercício Python #047 - Contagem de pares
+    - [x] Exercício Python #048 - Soma ímpares múltiplos de três
+    - [x] Exercício Python #049 - Tabuada v.2.0
+    - [x] Exercício Python #050 - Soma dos pares
+    - [x] Exercício Python #051 - Progressão Aritmética
+    - [x] Exercício Python #052 - Números primos
+    - [x] Exercício Python #053 - Detector de Palíndromo
+    - [x] Exercício Python #054 - Grupo da Maioridade
+    - [x] Exercício Python #055 - Maior e menor da sequência
+    - [x] Exercício Python #056 - Analisador completo
