@@ -380,5 +380,5 @@ Dia 15
     - [x] Exercício Python #067 - Tabuada v3.0
     - [x] Exercício Python #068 - Jogo do Par ou Ímpar
     - [x] Exercício Python #069 - Análise de dados do grupo
-    - [x] 
-    - [x] 
+    - [x] Exercício Python #070 - Estatísticas em produtos
+    - [x] Exercício Python #071 - Simulador de Caixa Eletrônico
