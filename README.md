@@ -372,3 +372,7 @@ Dia 14
     - [x] Exercício Python #063 - Sequência de Fibonacci v1.0
     - [x] Exercício Python #064 - Tratando vários valores v1.0
     - [x] Exercício Python #065 - Maior e Menor valores
+
+Dia 15
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+    - [x] Curso Python #15 - Interrompendo repetições while
