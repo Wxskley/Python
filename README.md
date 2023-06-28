@@ -384,4 +384,5 @@ Dia 15
     - [x] Exercício Python #071 - Simulador de Caixa Eletrônico
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - **Review (assistir sem praticar)**
-    - [ ] Quiz em Python | Projeto para Iniciantes [A1]
+    - [x] Quiz em Python | Projeto para Iniciantes [A1]
+    - [x] Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]
