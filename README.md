@@ -376,3 +376,9 @@ Dia 14
 Dia 15
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     - [x] Curso Python #15 - Interrompendo repetições while
+    - [x] Exercício Python #066 - Vários números com flag
+    - [x] Exercício Python #067 - Tabuada v3.0
+    - [x] Exercício Python #068 - Jogo do Par ou Ímpar
+    - [x] Exercício Python #069 - Análise de dados do grupo
+    - [x] 
+    - [x] 
