@@ -382,3 +382,6 @@ Dia 15
     - [x] Exercício Python #069 - Análise de dados do grupo
     - [x] Exercício Python #070 - Estatísticas em produtos
     - [x] Exercício Python #071 - Simulador de Caixa Eletrônico
+- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+- **Review (assistir sem praticar)**
+    - [ ] Quiz em Python | Projeto para Iniciantes [A1]
