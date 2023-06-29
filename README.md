@@ -386,3 +386,8 @@ Dia 15
     - **Review (assistir sem praticar)**
     - [x] Quiz em Python | Projeto para Iniciantes [A1]
     - [x] Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]
+
+Dia 16
+- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+    - **Review (assistir sem praticar)**
+    - [ ] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
