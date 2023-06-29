@@ -412,3 +412,4 @@ Dia 16
     - [x] Padrões de Projeto: Singleton | Projetos em Python para Iniciantes [C4]
     - [x] Padrões de Projeto: Adapter | Projetos em Python para Iniciantes [C5]
     - [x] Padrões de Projeto: Bridge| Projetos em Python para Iniciantes [C6]
+    - **Review 1 Finalizada**
