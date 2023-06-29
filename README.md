@@ -415,4 +415,10 @@ Dia 16
     - [x] Padrões de Projeto: Bridge| Projetos em Python para Iniciantes [C6]
     - **Review 1 Finalizada**
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-    - [ ] Curso Python #16 - Tuplas
+    - [x] Curso Python #16 - Tuplas
+    - [x] Exercício Python #072 - Número por Extenso
+    - [x] Exercício Python #073 - Tuplas com Times de Futebol
+    - [x] Exercício Python #074 - Maior e menor valores em Tupla
+    - [x] Exercício Python #075 - Análise de dados em uma Tupla
+    - [x] Exercício Python #076 - Lista de Preços com Tupla
+    - [x] Exercício Python #077 - Contando vogais em Tupla
