@@ -383,15 +383,20 @@ Dia 15
     - [x] Exercício Python #070 - Estatísticas em produtos
     - [x] Exercício Python #071 - Simulador de Caixa Eletrônico
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
-    - **Review (assistir sem praticar)**
+    - **Review 1 (assistir sem praticar)**
     - [x] Quiz em Python | Projeto para Iniciantes [A1]
     - [x] Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]
 
 Dia 16
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
-    - **Review (assistir sem praticar)**
+    - **Review 1 (assistir sem praticar)**
     - [x] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
     - [x] Temporizador em Python | Projetos para Iniciantes [A4]
     - [x] Gerador de Senha em Python | Projeto para Iniciantes [A5]
     - [x] Jogo da Adivinhação das Datas (termoo) | Projetos em Python para Iniciantes [A6]
     - [x] Datas e Funções | Projetos em Python para Iniciantes [A7]
+    - [x] Detectando palindromos com recursividade | Projetos em Python para Iniciantes [A8]
+    - [x] Filtrando e Mapeando Animais de um Aquário | Projetos em Python para Iniciantes [B1]
+    - [x] Map e Reduce em Aquário | Projetos em Python Para Iniciantes [B2]
+    - [x] Coletando e Exibindo Dados do NBA com API | Projetos em Python para Iniciantes [B3]
+    - [x] Conversor de Moedas Orientado a Objetos | Projetos em Python para Iniciantes [B4]
