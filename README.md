@@ -3,7 +3,10 @@
 **Playlist's**
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
-
+- [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7) 
+- [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr)
+- [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets)
+- [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
 Dia 1
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     - [x]  Curso Python #01 - Seja um Programador
@@ -65,9 +68,9 @@ Dia 4
     - [x] Exercício Python #026 - Primeira e última ocorrência de uma string
     - [x] Exercício Python #027 - Primeiro e último nome de uma pessoa
 - **Não pertence a nenhuma playlist** 
-    - [x] Aprenda Python em 10min (para Iniciantes) (https://www.youtube.com/watch?v=4p7axLXXBGU)
-    - [x] Python - Criando um teste / quiz (https://www.youtube.com/watch?v=kxB4DZ3O4D4)
-    - [x] Como Criar Uma Tela Em Python c/ PySimpleGUI [Fácil] (https://www.youtube.com/watch?v=UnfmxnFpfdM)
+    - [x] [Aprenda Python em 10min (para Iniciantes)](https://www.youtube.com/watch?v=4p7axLXXBGU)
+    - [x] [Python - Criando um teste / quiz](https://www.youtube.com/watch?v=kxB4DZ3O4D4)
+    - [x] [Como Criar Uma Tela Em Python c/ PySimpleGUI [Fácil]](https://www.youtube.com/watch?v=UnfmxnFpfdM)
 - **ChatGPT**
     - [x] Introdução
     - [x] Variáveis
@@ -98,7 +101,7 @@ Dia 5
     - [x] Multiplicação de matrizes
     - [x] Transposição de matrizes
 - **Não pertence a nenhuma playlist**
-    - [x] Python // Dicionário do Programador (https://www.youtube.com/watch?v=uOgDa1rlqjE)
+    - [x] [Python // Dicionário do Programador](https://www.youtube.com/watch?v=uOgDa1rlqjE)
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     - [x] Curso Python #10 - Condições (Parte 1)
     - [x] Exercício Python #028 - Jogo da Adivinhação v.1.0
@@ -139,7 +142,7 @@ Dia 6
 
 Dia 7
 - **Não pertence a nenhuma playlist**
-    - [x] Calculadora de IMC em Python (https://www.youtube.com/watch?v=CrZkNmpPWVo)
+    - [x] [Calculadora de IMC em Python](https://www.youtube.com/watch?v=CrZkNmpPWVo)
 - **ChatGPT**
     - [x] Programação assíncrona
     - [x] Consulta de dados de API assíncrona
@@ -221,7 +224,7 @@ Dia 9
     - [x] Calculadora Simples
     - [x] Algoritmo de divisão e conquista - Merge Sort
 - **Não pertence a nenhuma playlist**
-    - [x] Curso Python Tkinter - Como criar uma tela de login em Tkinter (https://www.youtube.com/watch?v=-8kvUOj3V8I)
+    - [x] [Curso Python Tkinter - Como criar uma tela de login em Tkinter](https://www.youtube.com/watch?v=-8kvUOj3V8I)
 
 Dia 10
 - **ChatGPT**
