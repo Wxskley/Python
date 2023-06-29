@@ -2,7 +2,7 @@
 ## Aprendendo do absoluto zero
 **Playlist's**
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W) [1x]
 - [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7) 
 - [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr)
 - [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets)
