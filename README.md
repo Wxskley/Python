@@ -390,4 +390,8 @@ Dia 15
 Dia 16
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - **Review (assistir sem praticar)**
-    - [ ] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
+    - [x] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
+    - [x] Temporizador em Python | Projetos para Iniciantes [A4]
+    - [x] Gerador de Senha em Python | Projeto para Iniciantes [A5]
+    - [x] Jogo da Adivinhação das Datas (termoo) | Projetos em Python para Iniciantes [A6]
+    - [x] Datas e Funções | Projetos em Python para Iniciantes [A7]
