@@ -414,3 +414,5 @@ Dia 16
     - [x] Padrões de Projeto: Adapter | Projetos em Python para Iniciantes [C5]
     - [x] Padrões de Projeto: Bridge| Projetos em Python para Iniciantes [C6]
     - **Review 1 Finalizada**
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+    - [ ] Curso Python #16 - Tuplas
