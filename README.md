@@ -431,11 +431,12 @@ Dia 17
     - [x] Introdução a Regressão Linear | Machine Learning: Fundamentos (Parte 1) [MLF1]
     - [x] Gradiente Descendente e Regressão Linear | Machine Learning: Fundamentos (Parte 2) [MLF2]
     - [x] Definindo os melhores parâmetros da Regressão | Machine Learning: Fundamentos (Parte 3) [MLF3]
-    - [ ] Regressão Linear Multivariada | Machine Learning: Fundamentos (Parte 4) [MLF4]
-    - [ ] Regressão Linear com Sklearn | Machine Learning: Fundamentos (Parte 5) [MLF5]
-    - [ ] Bias e Variância | Machine Learning: Fundamentos (Parte 6) [MLF6]
-    - [ ] Validação Cruzada (Cross Validation) | Machine Learning: Fundamentos
-    - [ ] KNN: Classificando com a vizinhança | Machine Learning: Fundamentos
-    - [ ] Model Tuning no KNN (Sklearn) | Machine Learning: Fundamentos
-    - [ ] Métricas de Performance para Classificação | Machine Learning: Fundamentos
-    - [ ] Métricas de Performance para Classificação com Sklearn | Machine Learning: Fundamentos
+    - [x] Regressão Linear Multivariada | Machine Learning: Fundamentos (Parte 4) [MLF4]
+    - [x] Regressão Linear com Sklearn | Machine Learning: Fundamentos (Parte 5) [MLF5]
+    - [x] Bias e Variância | Machine Learning: Fundamentos (Parte 6) [MLF6]
+    - [x] Validação Cruzada (Cross Validation) | Machine Learning: Fundamentos
+    - [x] KNN: Classificando com a vizinhança | Machine Learning: Fundamentos
+    - [x] Model Tuning no KNN (Sklearn) | Machine Learning: Fundamentos
+    - [x] Métricas de Performance para Classificação | Machine Learning: Fundamentos
+    - [x] Métricas de Performance para Classificação com Sklearn | Machine Learning: Fundamentos
+    - **Review 1 Finalizada**
