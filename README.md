@@ -448,13 +448,13 @@ Dia 17
     - [x] Exercício Python #081 - Extraindo dados de uma Lista
     - [x] Exercício Python #082 - Dividindo valores em várias listas
     - [x] Exercício Python #083 - Validando expressões matemáticas
-    - [ ] Curso Python #17 - Listas (Parte 2)
-    - [ ] Exercício Python #084 - Lista composta e análise de dados
-    - [ ] Exercício Python #085 - Listas com pares e ímpares
-    - [ ] Exercício Python #086 - Matriz em Python
-    - [ ] Exercício Python #087 - Mais sobre Matriz em Python
-    - [ ] Exercício Python #088 - Palpites para a Mega Sena
-    - [ ] Exercício Python #089 - Boletim com listas compostas
+    - [x] Curso Python #17 - Listas (Parte 2)
+    - [x] Exercício Python #084 - Lista composta e análise de dados
+    - [x] Exercício Python #085 - Listas com pares e ímpares
+    - [x] Exercício Python #086 - Matriz em Python
+    - [x] Exercício Python #087 - Mais sobre Matriz em Python
+    - [x] Exercício Python #088 - Palpites para a Mega Sena
+    - [x] Exercício Python #089 - Boletim com listas compostas
 - [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr)
     - **Review 1 (assistir sem praticar)**
     - [x] Escopo do Projeto | Bot Telegram de Análise de Dados (Parte 1)
