@@ -441,8 +441,8 @@ Dia 17
     - [x] Métricas de Performance para Classificação com Sklearn | Machine Learning: Fundamentos
     - **Review 1 Finalizada**
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-    - [ ] Curso Python #17 - Listas (Parte 1)
-    - [ ] Exercício Python #078 - Maior e Menor valores na Lista
+    - [x] Curso Python #17 - Listas (Parte 1)
+    - [x] Exercício Python #078 - Maior e Menor valores na Lista
     - [ ] Exercício Python #079 - Valores únicos em uma Lista
     - [ ] Exercício Python #080 - Lista ordenada sem repetições
     - [ ] Exercício Python #081 - Extraindo dados de uma Lista
