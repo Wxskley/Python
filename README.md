@@ -426,11 +426,11 @@ Dia 16
 Dia 17
 - [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7)
     - **Review 1 (assistir sem praticar)**
-    - [ ] Uma Gentil Introdução ao Machine Learning
-    - [ ] Tipos de Aprendizagem de Máquina | Machine Learning: Fundamentos
-    - [ ] Introdução a Regressão Linear | Machine Learning: Fundamentos (Parte 1) [MLF1]
-    - [ ] Gradiente Descendente e Regressão Linear | Machine Learning: Fundamentos (Parte 2) [MLF2]
-    - [ ] Definindo os melhores parâmetros da Regressão | Machine Learning: Fundamentos (Parte 3) [MLF3]
+    - [x] Uma Gentil Introdução ao Machine Learning
+    - [x] Tipos de Aprendizagem de Máquina | Machine Learning: Fundamentos
+    - [x] Introdução a Regressão Linear | Machine Learning: Fundamentos (Parte 1) [MLF1]
+    - [x] Gradiente Descendente e Regressão Linear | Machine Learning: Fundamentos (Parte 2) [MLF2]
+    - [x] Definindo os melhores parâmetros da Regressão | Machine Learning: Fundamentos (Parte 3) [MLF3]
     - [ ] Regressão Linear Multivariada | Machine Learning: Fundamentos (Parte 4) [MLF4]
     - [ ] Regressão Linear com Sklearn | Machine Learning: Fundamentos (Parte 5) [MLF5]
     - [ ] Bias e Variância | Machine Learning: Fundamentos (Parte 6) [MLF6]
