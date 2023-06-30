@@ -450,10 +450,11 @@ Dia 17
     - [x] Exercício Python #083 - Validando expressões matemáticas
 - [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr)
     - **Review 1 (assistir sem praticar)**
-    - [ ] Escopo do Projeto | Bot Telegram de Análise de Dados (Parte 1)
-    - [ ] Construindo o Bot do Telegram com Python | Bot Telegram de Análise de Dados (Parte 2)
-    - [ ] Conectando Google Planilhas com Python e GitHub do Projeto | Bot Telegram Analise de Dados (Parte 3)
-    - [ ] Construindo as visualizações | Bot Telegram Analise de Dados (Parte 4)
+    - [x] Escopo do Projeto | Bot Telegram de Análise de Dados (Parte 1)
+    - [x] Construindo o Bot do Telegram com Python | Bot Telegram de Análise de Dados (Parte 2)
+    - [x] Conectando Google Planilhas com Python e GitHub do Projeto | Bot Telegram Analise de Dados (Parte 3)
+    - [x] Construindo as visualizações | Bot Telegram Analise de Dados (Parte 4)
     - [ ] Juntando as peças | Bot Telegram para Análise de Dados (Parte 5)
     - [ ] Deploy do projeto no Heroku | Bot Telegram Analise De Dados (Parte 6)
     - [ ] Ajustes Finais e Envio de Imagem | Bot Telegram Analise de Dados
+    - **Review 1 Finalizada**
