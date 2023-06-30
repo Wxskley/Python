@@ -3,7 +3,7 @@
 **Playlist's**
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W) [1x]
-- [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7) 
+- [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7)
 - [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr)
 - [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets)
 - [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
@@ -422,3 +422,20 @@ Dia 16
     - [x] Exercício Python #075 - Análise de dados em uma Tupla
     - [x] Exercício Python #076 - Lista de Preços com Tupla
     - [x] Exercício Python #077 - Contando vogais em Tupla
+
+Dia 17
+- [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7)
+    - **Review 1 (assistir sem praticar)**
+    - [ ] Uma Gentil Introdução ao Machine Learning
+    - [ ] Tipos de Aprendizagem de Máquina | Machine Learning: Fundamentos
+    - [ ] Introdução a Regressão Linear | Machine Learning: Fundamentos (Parte 1) [MLF1]
+    - [ ] Gradiente Descendente e Regressão Linear | Machine Learning: Fundamentos (Parte 2) [MLF2]
+    - [ ] Definindo os melhores parâmetros da Regressão | Machine Learning: Fundamentos (Parte 3) [MLF3]
+    - [ ] Regressão Linear Multivariada | Machine Learning: Fundamentos (Parte 4) [MLF4]
+    - [ ] Regressão Linear com Sklearn | Machine Learning: Fundamentos (Parte 5) [MLF5]
+    - [ ] Bias e Variância | Machine Learning: Fundamentos (Parte 6) [MLF6]
+    - [ ] Validação Cruzada (Cross Validation) | Machine Learning: Fundamentos
+    - [ ] KNN: Classificando com a vizinhança | Machine Learning: Fundamentos
+    - [ ] Model Tuning no KNN (Sklearn) | Machine Learning: Fundamentos
+    - [ ] Métricas de Performance para Classificação | Machine Learning: Fundamentos
+    - [ ] Métricas de Performance para Classificação com Sklearn | Machine Learning: Fundamentos
