@@ -443,8 +443,8 @@ Dia 17
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     - [x] Curso Python #17 - Listas (Parte 1)
     - [x] Exercício Python #078 - Maior e Menor valores na Lista
-    - [ ] Exercício Python #079 - Valores únicos em uma Lista
-    - [ ] Exercício Python #080 - Lista ordenada sem repetições
-    - [ ] Exercício Python #081 - Extraindo dados de uma Lista
-    - [ ] Exercício Python #082 - Dividindo valores em várias listas
-    - [ ] Exercício Python #083 - Validando expressões matemáticas
+    - [x] Exercício Python #079 - Valores únicos em uma Lista
+    - [x] Exercício Python #080 - Lista ordenada sem repetições
+    - [x] Exercício Python #081 - Extraindo dados de uma Lista
+    - [x] Exercício Python #082 - Dividindo valores em várias listas
+    - [x] Exercício Python #083 - Validando expressões matemáticas
