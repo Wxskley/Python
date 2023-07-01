@@ -526,8 +526,8 @@ Dia 18
     - **Review 1 Finalizada**
 - [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP)
     - **Review 1 (assistir sem praticar)**
-    - [ ] Introdução + Vetores - Numpy e Álgebra Linear (Parte 1) [NAL1]
-    - [ ] Matrizes - Numpy e Álgebra Linear (Parte 2) [NAL2]
-    - [ ] Tipagem de Dados e Cast - Numpy e Álgebra Linear (Parte 3) [NAL3]
-    - [ ] Operações com Arrays e Matrix | Numpy e Álgebra Linear (Parte 4) [NAL4]
+    - [x] Introdução + Vetores - Numpy e Álgebra Linear (Parte 1) [NAL1]
+    - [x] Matrizes - Numpy e Álgebra Linear (Parte 2) [NAL2]
+    - [x] Tipagem de Dados e Cast - Numpy e Álgebra Linear (Parte 3) [NAL3]
+    - [x] Operações com Arrays e Matrix | Numpy e Álgebra Linear (Parte 4) [NAL4]
     - **Review 1 Finalizada**
