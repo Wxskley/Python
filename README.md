@@ -5,7 +5,7 @@
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W) [1x]
 - [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7) [1x]
 - [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr) [1x]
-- [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets)
+- [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets) [1x]
 - [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
 - [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP)
 
@@ -469,10 +469,10 @@ Dia 17
 Dia 18
 - [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets)
     - **Review 1 (assistir sem praticar)**
-    - [ ] Escopo | Projeto II - Segmentação de Clientes em E-commerce
-    - [ ] Entendimento do Negócio | Projeto - Segmentação de Clientes (#2)
-    - [ ] Análise Exploratória Inicial | Projeto - Segmentação de Clientes em Ecommerce (#3)
-    - [ ] Processamento de Dados | Projeto Segmentação de Clientes
-    - [ ] Modelagem de Clusterização | Projeto Segmentação de Clientes
-    - [ ] Analise de Clusters | Projeto Clusterização de Clientes
+    - [x] Escopo | Projeto II - Segmentação de Clientes em E-commerce
+    - [x] Entendimento do Negócio | Projeto - Segmentação de Clientes (#2)
+    - [x] Análise Exploratória Inicial | Projeto - Segmentação de Clientes em Ecommerce (#3)
+    - [x] Processamento de Dados | Projeto Segmentação de Clientes
+    - [x] Modelagem de Clusterização | Projeto Segmentação de Clientes
+    - [x] Analise de Clusters | Projeto Clusterização de Clientes
     - **Review 1 Finalizada**
