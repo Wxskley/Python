@@ -476,3 +476,17 @@ Dia 18
     - [x] Modelagem de Clusterização | Projeto Segmentação de Clientes
     - [x] Analise de Clusters | Projeto Clusterização de Clientes
     - **Review 1 Finalizada**
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+    - [ ] Curso Python #19 - Dicionários
+    - [ ] Exercício Python #090 - Dicionário em Python
+    - [ ] Exercício Python #091 - Jogo de Dados em Python
+    - [ ] Exercício Python #092 - Cadastro de Trabalhador em Python
+    - [ ] Exercício Python #093 - Cadastro de Jogador de Futebol
+    - [ ] Exercício Python #094 - Unindo dicionários e listas
+    - [ ] Exercício Python #095 - Aprimorando os Dicionários
+    - [ ] Curso Python #20 - Funções (Parte 1)
+    - [ ] Exercício Python #096 - Função que calcula área
+    - [ ] Exercício Python #097 - Um print especial
+    - [ ] Exercício Python #098 - Função de Contador
+    - [ ] Exercício Python #099 - Função que descobre o maior
+    - [ ] Exercício Python #100 - Funções para sortear e somar
