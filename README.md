@@ -465,3 +465,14 @@ Dia 17
     - [x] Deploy do projeto no Heroku | Bot Telegram Analise De Dados (Parte 6)
     - [x] Ajustes Finais e Envio de Imagem | Bot Telegram Analise de Dados
     - **Review 1 Finalizada**
+
+Dia 18
+- [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets)
+    - **Review 1 (assistir sem praticar)**
+    - [ ] Escopo | Projeto II - Segmentação de Clientes em E-commerce
+    - [ ] Entendimento do Negócio | Projeto - Segmentação de Clientes (#2)
+    - [ ] Análise Exploratória Inicial | Projeto - Segmentação de Clientes em Ecommerce (#3)
+    - [ ] Processamento de Dados | Projeto Segmentação de Clientes
+    - [ ] Modelagem de Clusterização | Projeto Segmentação de Clientes
+    - [ ] Analise de Clusters | Projeto Clusterização de Clientes
+    - **Review 1 Finalizada**
