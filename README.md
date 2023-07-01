@@ -513,14 +513,14 @@ Dia 18
     - **Review 1 Finalizada**
 - [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
     - **Review 1 (assistir sem praticar)**
-    - [ ] Gráfico de Linhas - MatPlotLib (Parte 1) [MPL1]
-    - [ ] PieChart (Gráfico de Torta) | MatPlotLib (Parte 2) [MPL2]
-    - [ ] Melhorando o PieChart | MatPlotLib (Parte 3) [MPL3]
-    - [ ] Gráfico de Barras | MatPlotLib (Parte 4) [MPL4]
-    - [ ] Melhorando gráfico de Barras | MatPlotLib (Parte 5) [MPL5]
-    - [ ] Gráficos Empilhados | MatPlotLib
-    - [ ] Histogramas | MatPlotLib
-    - [ ] Gráfico de Dispersão | Visualização de Dados (MatPlotLib) [MPL]
-    - [ ] Manipulando Figura e Eixos | Visualização de Dados (MatPlotLib)
-    - [ ] Subplots | Visualização de Dados (MatPlotLib)
+    - [x] Gráfico de Linhas - MatPlotLib (Parte 1) [MPL1]
+    - [x] PieChart (Gráfico de Torta) | MatPlotLib (Parte 2) [MPL2]
+    - [x] Melhorando o PieChart | MatPlotLib (Parte 3) [MPL3]
+    - [x] Gráfico de Barras | MatPlotLib (Parte 4) [MPL4]
+    - [x] Melhorando gráfico de Barras | MatPlotLib (Parte 5) [MPL5]
+    - [x] Gráficos Empilhados | MatPlotLib
+    - [x] Histogramas | MatPlotLib
+    - [x] Gráfico de Dispersão | Visualização de Dados (MatPlotLib) [MPL]
+    - [x] Manipulando Figura e Eixos | Visualização de Dados (MatPlotLib)
+    - [x] Subplots | Visualização de Dados (MatPlotLib)
     - **Review 1 Finalizada**
