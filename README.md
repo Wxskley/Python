@@ -7,7 +7,7 @@
 - [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr) [1x]
 - [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets) [1x]
 - [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN) [1x]
-- [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP)
+- [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP) [1x]
 - [CRUD COM PYTHON](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N) [1x]
 
 Dia 1
@@ -523,4 +523,11 @@ Dia 18
     - [x] Gráfico de Dispersão | Visualização de Dados (MatPlotLib) [MPL]
     - [x] Manipulando Figura e Eixos | Visualização de Dados (MatPlotLib)
     - [x] Subplots | Visualização de Dados (MatPlotLib)
+    - **Review 1 Finalizada**
+- [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP)
+    - **Review 1 (assistir sem praticar)**
+    - [ ] Introdução + Vetores - Numpy e Álgebra Linear (Parte 1) [NAL1]
+    - [ ] Matrizes - Numpy e Álgebra Linear (Parte 2) [NAL2]
+    - [ ] Tipagem de Dados e Cast - Numpy e Álgebra Linear (Parte 3) [NAL3]
+    - [ ] Operações com Arrays e Matrix | Numpy e Álgebra Linear (Parte 4) [NAL4]
     - **Review 1 Finalizada**
