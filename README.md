@@ -8,6 +8,7 @@
 - [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets) [1x]
 - [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
 - [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP)
+- [CRUD COM PYTHON](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N)
 
 Dia 1
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
@@ -490,3 +491,16 @@ Dia 18
     - [x] Exercício Python #098 - Função de Contador
     - [x] Exercício Python #099 - Função que descobre o maior
     - [x] Exercício Python #100 - Funções para sortear e somar
+- [CRUD COM PYTHON](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N)
+    - **Review 1 (assistir sem praticar)**
+    - [ ] CRUD com Python - #1 Introdução
+    - [ ] CRUD com Python - #2 Template
+    - [ ] CRUD com Python - #3 Formulário e Banco de Dados
+    - [ ] CRUD com Python - #4 Create e Read
+    - [ ] CRUD com Python - #5 Update
+    - [ ] CRUD com Python - #6 Delete e Ajax
+    - [ ] CRUD com Python - #7 Paginação e Busca
+    - [ ] CRUD com Python - #8 Usando o MySQL
+    - [ ] CRUD com Python - #9 Deploy
+    - [ ] CRUD com Python - #10 Deploy com MySQL
+    - [ ] Certificado do Curso
