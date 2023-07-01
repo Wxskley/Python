@@ -491,13 +491,13 @@ Dia 18
     - [x] Exercício Python #098 - Função de Contador
     - [x] Exercício Python #099 - Função que descobre o maior
     - [x] Exercício Python #100 - Funções para sortear e somar
-    - [ ] Curso Python #21 - Funções (Parte 2)
-    - [ ] Exercício Python #101 - Funções para votação
-    - [ ] Exercício Python #102 - Função para Fatorial
-    - [ ] Exercício Python #103 - Ficha do Jogador
-    - [ ] Exercício Python #104 - Validando entrada de dados em Python
-    - [ ] Exercício Python #105 - Analisando e gerando Dicionários
-    - [ ] Exercício Python #106 - Sistema interativo de ajuda em Python
+    - [x] Curso Python #21 - Funções (Parte 2)
+    - [x] Exercício Python #101 - Funções para votação
+    - [x] Exercício Python #102 - Função para Fatorial
+    - [x] Exercício Python #103 - Ficha do Jogador
+    - [x] Exercício Python #104 - Validando entrada de dados em Python
+    - [x] Exercício Python #105 - Analisando e gerando Dicionários
+    - [x] Exercício Python #106 - Sistema interativo de ajuda em Python
 - [CRUD COM PYTHON](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N)
     - **Review 1 (assistir sem praticar)**
     - [x] CRUD com Python - #1 Introdução
