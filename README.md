@@ -484,9 +484,9 @@ Dia 18
     - [x] Exercício Python #093 - Cadastro de Jogador de Futebol
     - [x] Exercício Python #094 - Unindo dicionários e listas
     - [x] Exercício Python #095 - Aprimorando os Dicionários
-    - [ ] Curso Python #20 - Funções (Parte 1)
-    - [ ] Exercício Python #096 - Função que calcula área
-    - [ ] Exercício Python #097 - Um print especial
-    - [ ] Exercício Python #098 - Função de Contador
-    - [ ] Exercício Python #099 - Função que descobre o maior
-    - [ ] Exercício Python #100 - Funções para sortear e somar
+    - [x] Curso Python #20 - Funções (Parte 1)
+    - [x] Exercício Python #096 - Função que calcula área
+    - [x] Exercício Python #097 - Um print especial
+    - [x] Exercício Python #098 - Função de Contador
+    - [x] Exercício Python #099 - Função que descobre o maior
+    - [x] Exercício Python #100 - Funções para sortear e somar
