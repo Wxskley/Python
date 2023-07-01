@@ -6,7 +6,7 @@
 - [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7) [1x]
 - [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr) [1x]
 - [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets) [1x]
-- [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
+- [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN) [1x]
 - [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP)
 - [CRUD COM PYTHON](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N) [1x]
 
@@ -510,4 +510,17 @@ Dia 18
     - [x] CRUD com Python - #8 Usando o MySQL
     - [x] CRUD com Python - #9 Deploy
     - [x] CRUD com Python - #10 Deploy com MySQL
+    - **Review 1 Finalizada**
+- [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
+    - **Review 1 (assistir sem praticar)**
+    - [ ] Gráfico de Linhas - MatPlotLib (Parte 1) [MPL1]
+    - [ ] PieChart (Gráfico de Torta) | MatPlotLib (Parte 2) [MPL2]
+    - [ ] Melhorando o PieChart | MatPlotLib (Parte 3) [MPL3]
+    - [ ] Gráfico de Barras | MatPlotLib (Parte 4) [MPL4]
+    - [ ] Melhorando gráfico de Barras | MatPlotLib (Parte 5) [MPL5]
+    - [ ] Gráficos Empilhados | MatPlotLib
+    - [ ] Histogramas | MatPlotLib
+    - [ ] Gráfico de Dispersão | Visualização de Dados (MatPlotLib) [MPL]
+    - [ ] Manipulando Figura e Eixos | Visualização de Dados (MatPlotLib)
+    - [ ] Subplots | Visualização de Dados (MatPlotLib)
     - **Review 1 Finalizada**
