@@ -9,7 +9,7 @@
 - [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN) [1x]
 - [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP) [1x]
 - [CRUD COM PYTHON](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N) [1x]
-- [Fundamentos em Python](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og)
+- [Fundamentos em Python](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og) [1x]
 
 Dia 1
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
@@ -553,19 +553,19 @@ Dia 19
     - [x] Curso de Python - List - Aula 4.1
     - [x] Curso de Python - Tuples - Aula 4.2
     - [x] Curso de Python - Sets - Aula 4.3
-    - [ ] Curso de Python - Dictionary - Aula 4.4
-    - [ ] Curso de Python - If - Aula 5.1
-    - [ ] Curso de Python - Elif - Aula 5.2
-    - [ ] Curso de Python - Loops - Aula 5.3
-    - [ ] Curso de Python - For - Aula 5.4
-    - [ ] Curso de Python - While - Aula 6.1
-    - [ ] Curso de Python - Range - Aula 6.2
-    - [ ] Curso de Python - Criando Função (Def) - Aula 6.3
-    - [ ] Curso de Python - Lambda - Aula 6.4
-    - [ ] Curso de Python - Módulos - Aula 7.1
-    - [ ] Curso de Python - Módulos (parte 2) - Aula 7.2
-    - [ ] Curso de Python - Módulos (parte 3) - Aula 7.3
-    - [ ] Curso de Python - Pacotes - Aula 8.1
-    - [ ] Curso de Python - Pacotes (parte 2) - Aula 8.2
-    - [ ] Curso de Python - Pacotes (parte 3) - Aula 8.2
+    - [x] Curso de Python - Dictionary - Aula 4.4
+    - [x] Curso de Python - If - Aula 5.1
+    - [x] Curso de Python - Elif - Aula 5.2
+    - [x] Curso de Python - Loops - Aula 5.3
+    - [x] Curso de Python - For - Aula 5.4
+    - [x] Curso de Python - While - Aula 6.1
+    - [x] Curso de Python - Range - Aula 6.2
+    - [x] Curso de Python - Criando Função (Def) - Aula 6.3
+    - [x] Curso de Python - Lambda - Aula 6.4
+    - [x] Curso de Python - Módulos - Aula 7.1
+    - [x] Curso de Python - Módulos (parte 2) - Aula 7.2
+    - [x] Curso de Python - Módulos (parte 3) - Aula 7.3
+    - [x] Curso de Python - Pacotes - Aula 8.1
+    - [x] Curso de Python - Pacotes (parte 2) - Aula 8.2
+    - [x] Curso de Python - Pacotes (parte 3) - Aula 8.2
     - **Review 1 Finalizada**
