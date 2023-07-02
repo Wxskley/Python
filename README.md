@@ -534,13 +534,13 @@ Dia 18
 
 Dia 19
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-    - [ ] Curso Python #22 - Módulos e Pacotes
-    - [ ] Exercício Python #107 - Exercitando módulos em Python
-    - [ ] Exercício Python #108 - Formatando Moedas em Python
-    - [ ] Exercício Python #109 - Formatando Moedas em Python
-    - [ ] Exercício Python #110 - Reduzindo ainda mais seu programa
-    - [ ] Exercício Python #111 - Transformando módulos em pacotes
-    - [ ] Exercício Python #112 - Entrada de dados monetários
+    - [x] Curso Python #22 - Módulos e Pacotes
+    - [x] Exercício Python #107 - Exercitando módulos em Python
+    - [x] Exercício Python #108 - Formatando Moedas em Python
+    - [x] Exercício Python #109 - Formatando Moedas em Python
+    - [x] Exercício Python #110 - Reduzindo ainda mais seu programa
+    - [x] Exercício Python #111 - Transformando módulos em pacotes
+    - [x] Exercício Python #112 - Entrada de dados monetários
     - [ ] Curso Python #23 - Tratamento de Erros e Exceções
     - [ ] Exercício Python #113 - Funções aprofundadas em Python
     - [ ] Exercício Python #114 - Site está acessível?
