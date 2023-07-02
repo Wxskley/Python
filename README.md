@@ -2,14 +2,15 @@
 ## Aprendendo do absoluto zero
 **Playlist's**
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) [1x]
-- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W) [1x]
-- [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7) [1x]
-- [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr) [1x]
-- [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets) [1x]
-- [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN) [1x]
-- [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP) [1x]
-- [CRUD COM PYTHON](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N) [1x]
-- [Fundamentos em Python](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og) [1x]
+- [Projetos em Python para Iniciantes - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W) [1x]
+- [Machine Learning: Fundamentos - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7) [1x]
+- [Projeto I | Bot Telegram de Análise de Dados - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr) [1x]
+- [Projeto II | Segmentação de Clientes em Ecommerce - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets) [1x]
+- [Visualização de Dados | MatPlotLib - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN) [1x]
+- [Numpy e Álgebra Linear com Python [NAL] - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP) [1x]
+- [CRUD COM PYTHON - Webdesign em Foco](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N) [1x]
+- [Fundamentos em Python - Balaio Científico](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og) [1x]
+- [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
 
 Dia 1
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
@@ -38,12 +39,12 @@ Dia 2
     - [x] Exercício Python #013 - Reajuste Salarial
     - [x] Exercício Python #014 - Conversor de Temperaturas
     - [x] Exercício Python #015 - Aluguel de Carros
-- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+- [Projetos em Python para Iniciantes - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - [x] Quiz em Python | Projeto para Iniciantes [A1]
     - [x] Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]
 
 Dia 3
-- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+- [Projetos em Python para Iniciantes - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - [x] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
     - [x] Temporizador em Python | Projetos para Iniciantes [A4]
     - [x] Gerador de Senha em Python | Projeto para Iniciantes [A5]
@@ -60,7 +61,7 @@ Dia 3
     - [x] Exercício Python #021 - Tocando um MP3
 
 Dia 4
-- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+- [Projetos em Python para Iniciantes - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - [x] Filtrando e Mapeando Animais de um Aquário | Projetos em Python para Iniciantes [B1]
     - [x] Map e Reduce em Aquário | Projetos em Python Para Iniciantes [B2]
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
@@ -389,13 +390,13 @@ Dia 15
     - [x] Exercício Python #069 - Análise de dados do grupo
     - [x] Exercício Python #070 - Estatísticas em produtos
     - [x] Exercício Python #071 - Simulador de Caixa Eletrônico
-- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+- [Projetos em Python para Iniciantes - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - **Review 1 (assistir sem praticar)**
     - [x] Quiz em Python | Projeto para Iniciantes [A1]
     - [x] Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]
 
 Dia 16
-- [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
+- [Projetos em Python para Iniciantes - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W)
     - **Review 1 (assistir sem praticar)**
     - [x] Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]
     - [x] Temporizador em Python | Projetos para Iniciantes [A4]
@@ -426,7 +427,7 @@ Dia 16
     - [x] Exercício Python #077 - Contando vogais em Tupla
 
 Dia 17
-- [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7)
+- [Machine Learning: Fundamentos - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7)
     - **Review 1 (assistir sem praticar)**
     - [x] Uma Gentil Introdução ao Machine Learning
     - [x] Tipos de Aprendizagem de Máquina | Machine Learning: Fundamentos
@@ -457,7 +458,7 @@ Dia 17
     - [x] Exercício Python #087 - Mais sobre Matriz em Python
     - [x] Exercício Python #088 - Palpites para a Mega Sena
     - [x] Exercício Python #089 - Boletim com listas compostas
-- [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr)
+- [Projeto I | Bot Telegram de Análise de Dados - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr)
     - **Review 1 (assistir sem praticar)**
     - [x] Escopo do Projeto | Bot Telegram de Análise de Dados (Parte 1)
     - [x] Construindo o Bot do Telegram com Python | Bot Telegram de Análise de Dados (Parte 2)
@@ -469,7 +470,7 @@ Dia 17
     - **Review 1 Finalizada**
 
 Dia 18
-- [Projeto II | Segmentação de Clientes em Ecommerce](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets)
+- [Projeto II | Segmentação de Clientes em Ecommerce - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC4pJwXuUBzIPxGM_VcUHets)
     - **Review 1 (assistir sem praticar)**
     - [x] Escopo | Projeto II - Segmentação de Clientes em E-commerce
     - [x] Entendimento do Negócio | Projeto - Segmentação de Clientes (#2)
@@ -499,7 +500,7 @@ Dia 18
     - [x] Exercício Python #104 - Validando entrada de dados em Python
     - [x] Exercício Python #105 - Analisando e gerando Dicionários
     - [x] Exercício Python #106 - Sistema interativo de ajuda em Python
-- [CRUD COM PYTHON](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N)
+- [CRUD COM PYTHON - Webdesign em Foco](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N)
     - **Review 1 (assistir sem praticar)**
     - [x] CRUD com Python - #1 Introdução
     - [x] CRUD com Python - #2 Template
@@ -512,7 +513,7 @@ Dia 18
     - [x] CRUD com Python - #9 Deploy
     - [x] CRUD com Python - #10 Deploy com MySQL
     - **Review 1 Finalizada**
-- [Visualização de Dados | MatPlotLib](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
+- [Visualização de Dados | MatPlotLib - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC6j_SHrSqYjOi3jX88mw-AN)
     - **Review 1 (assistir sem praticar)**
     - [x] Gráfico de Linhas - MatPlotLib (Parte 1) [MPL1]
     - [x] PieChart (Gráfico de Torta) | MatPlotLib (Parte 2) [MPL2]
@@ -525,7 +526,7 @@ Dia 18
     - [x] Manipulando Figura e Eixos | Visualização de Dados (MatPlotLib)
     - [x] Subplots | Visualização de Dados (MatPlotLib)
     - **Review 1 Finalizada**
-- [Numpy e Álgebra Linear com Python [NAL]](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP)
+- [Numpy e Álgebra Linear com Python [NAL] - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP)
     - **Review 1 (assistir sem praticar)**
     - [x] Introdução + Vetores - Numpy e Álgebra Linear (Parte 1) [NAL1]
     - [x] Matrizes - Numpy e Álgebra Linear (Parte 2) [NAL2]
@@ -548,7 +549,7 @@ Dia 19
     - [x] Exercício Python #115a - Criando um menu em Python
     - [x] Exercício Python #115b - Arquivos com Python
     - [x] Exercício Python #115c - Finalizando o projeto
-- [Fundamentos em Python](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og)
+- [Fundamentos em Python - Balaio Científico](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og)
     - **Review 1 (assistir sem praticar)**
     - [x] Curso de Python - List - Aula 4.1
     - [x] Curso de Python - Tuples - Aula 4.2
