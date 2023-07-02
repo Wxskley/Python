@@ -541,9 +541,9 @@ Dia 19
     - [x] Exercício Python #110 - Reduzindo ainda mais seu programa
     - [x] Exercício Python #111 - Transformando módulos em pacotes
     - [x] Exercício Python #112 - Entrada de dados monetários
-    - [ ] Curso Python #23 - Tratamento de Erros e Exceções
-    - [ ] Exercício Python #113 - Funções aprofundadas em Python
-    - [ ] Exercício Python #114 - Site está acessível?
-    - [ ] Exercício Python #115a - Criando um menu em Python
-    - [ ] Exercício Python #115b - Arquivos com Python
-    - [ ] Exercício Python #115c - Finalizando o projeto
+    - [x] Curso Python #23 - Tratamento de Erros e Exceções
+    - [x] Exercício Python #113 - Funções aprofundadas em Python
+    - [x] Exercício Python #114 - Site está acessível?
+    - [x] Exercício Python #115a - Criando um menu em Python
+    - [x] Exercício Python #115b - Arquivos com Python
+    - [x] Exercício Python #115c - Finalizando o projeto
