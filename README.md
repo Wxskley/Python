@@ -570,3 +570,24 @@ Dia 19
     - [x] Curso de Python - Pacotes (parte 2) - Aula 8.2
     - [x] Curso de Python - Pacotes (parte 3) - Aula 8.2
     - **Review 1 Finalizada**
+- [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
+    - [x] Instalação e primeiro programa - Curso de Python #01
+    - [x] Sintaxe básica P2 e Comentários - Curso de Python #02
+    - [x] Variáveis em Python - Curso de Python #03
+    - [x] Tipos de dados em Python - Curso de Python #04
+    - [x] Tipos numéricos, random e operações de casting - Curso de Python #05
+    - [x] Strings P1 - Curso de Python #06
+    - [x] Strings P2 - Curso de Python #07
+    - [x] Tipo Boolean - Curso de Python #08
+    - [x] Coleção List - Curso de Python #09
+    - [x] Como usar o comando IF em Python - Curso de Python #10
+    - [x] Condicional If Elif Else - Curso de Python #11
+    - [x] Loop FOR - Curso de Python #12
+    - [x] Função Input - Curso de Python #13
+    - [x] Loop While - Curso de Python #14
+    - [x] O que são as Tuplas em Python - Curso de Python #15
+    - [x] Matrizes - Curso de Python #16
+    - [x] Dictionary - Curso de Python #17
+    - [x] Jogo simples de adivinhação em Python - Curso de Python #18
+    - [x] Funções P1 - Curso de Python #19
+    - [x] Funções P2 / argumentos de entrada - Curso de Python #20
