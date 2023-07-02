@@ -1,7 +1,7 @@
 # Python
 ## Aprendendo do absoluto zero
 **Playlist's**
-- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) [1x]
 - [Projetos em Python para Iniciantes](https://www.youtube.com/playlist?list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W) [1x]
 - [Machine Learning: Fundamentos](https://www.youtube.com/playlist?list=PLshkB4NQEfC4FRMCrqlSxRmCwdFt6Rz-7) [1x]
 - [Projeto I | Bot Telegram de Análise de Dados](https://www.youtube.com/playlist?list=PLshkB4NQEfC7ZJqmnKcjsJBzv9p2CeNNr) [1x]
@@ -531,3 +531,19 @@ Dia 18
     - [x] Tipagem de Dados e Cast - Numpy e Álgebra Linear (Parte 3) [NAL3]
     - [x] Operações com Arrays e Matrix | Numpy e Álgebra Linear (Parte 4) [NAL4]
     - **Review 1 Finalizada**
+
+Dia 19
+- [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+    - [ ] Curso Python #22 - Módulos e Pacotes
+    - [ ] Exercício Python #107 - Exercitando módulos em Python
+    - [ ] Exercício Python #108 - Formatando Moedas em Python
+    - [ ] Exercício Python #109 - Formatando Moedas em Python
+    - [ ] Exercício Python #110 - Reduzindo ainda mais seu programa
+    - [ ] Exercício Python #111 - Transformando módulos em pacotes
+    - [ ] Exercício Python #112 - Entrada de dados monetários
+    - [ ] Curso Python #23 - Tratamento de Erros e Exceções
+    - [ ] Exercício Python #113 - Funções aprofundadas em Python
+    - [ ] Exercício Python #114 - Site está acessível?
+    - [ ] Exercício Python #115a - Criando um menu em Python
+    - [ ] Exercício Python #115b - Arquivos com Python
+    - [ ] Exercício Python #115c - Finalizando o projeto
