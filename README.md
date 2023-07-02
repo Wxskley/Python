@@ -550,20 +550,9 @@ Dia 19
     - [x] Exercício Python #115c - Finalizando o projeto
 - [Fundamentos em Python](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og)
     - **Review 1 (assistir sem praticar)**
-    - [ ] Curso de Python - Instalando o Python - Aula 1.1
-    - [ ] Curso de Python - Escolhendo a IDE - Aula 1.2
-    - [ ] Curso de Python - Primeiro contato com o Python - Aula 1.3
-    - [ ] Curso de Python - Indentação - Aula 2.1
-    - [ ] Curso de Python - Variáveis - Aula 2.2
-    - [ ] Curso de Python - Comentários - Aula 2.3
-    - [ ] Curso de Python - Dicas de boas práticas em Python - Aula 2.4
-    - [ ] Curso de Python - Strings - Aula 3.1
-    - [ ] Curso de Python - Integer - Aula 3.2
-    - [ ] Curso de Python - Float - Aula 3.3
-    - [ ] Curso de Python - Boolean - Aula 3.4
-    - [ ] Curso de Python - List - Aula 4.1
-    - [ ] Curso de Python - Tuples - Aula 4.2
-    - [ ] Curso de Python - Sets - Aula 4.3
+    - [x] Curso de Python - List - Aula 4.1
+    - [x] Curso de Python - Tuples - Aula 4.2
+    - [x] Curso de Python - Sets - Aula 4.3
     - [ ] Curso de Python - Dictionary - Aula 4.4
     - [ ] Curso de Python - If - Aula 5.1
     - [ ] Curso de Python - Elif - Aula 5.2
