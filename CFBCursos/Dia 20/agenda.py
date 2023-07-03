@@ -40,7 +40,7 @@ def menuPrincipal():
     print("1 - Inserior Novo Registro")
     print("2 - Deletar Registro")
     print("3 - Atualizar Registro")
-    print("4 - Consultar Registro por ID")
+    print("4 - Consultar Registros")
     print("5 - Consultar Registro por Nome")
     print("6 - Sair")
 
@@ -81,12 +81,45 @@ def menuAtualizar():
     query(vcon, vsql)
 
 
-def menuConsultarId():
-    print()
+def menuConsultar():
+    vsql = "SELECT * FROM tb_contatos"
+    res = consultar(vcon, vsql)
+    vlim = 10
+    vcont = 0
+    for r in res:
+        print(
+            "ID:{0:_<3} Nome:{1:_<30} Telefone:{2:_<14} Email:{3:_<30}".format(
+                r[0], r[1], r[2], r[3]
+            )
+        )
+        vcont += 1
+        if vcont >= vlim:
+            vcont = 0
+            os.system("pause")
+            os.system("cls")
+    print("Fim da lista")
+    os.system("pause")
 
 
 def menuConsultarNomes():
-    print()
+    vnome = input("Digite o nome: ")
+    vsql = f"SELECT * FROM tb_contatos WHERE T_NOMECONTATO LIKE '%{vnome}%'"
+    res = consultar(vcon, vsql)
+    vlim = 10
+    vcont = 0
+    for r in res:
+        print(
+            "ID:{0:_<3} Nome:{1:_<30} Telefone:{2:_<14} Email:{3:_<30}".format(
+                r[0], r[1], r[2], r[3]
+            )
+        )
+        vcont += 1
+        if vcont >= vlim:
+            vcont = 0
+            os.system("pause")
+            os.system("cls")
+    print("Fim da lista")
+    os.system("pause")
 
 
 opc = 0
@@ -100,7 +133,7 @@ while opc != 6:
     elif opc == 3:
         menuAtualizar()
     elif opc == 4:
-        menuConsultarId()
+        menuConsultar()
     elif opc == 5:
         menuConsultarNomes()
     elif opc == 6:
