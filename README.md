@@ -626,7 +626,7 @@ Dia 20
     - [x] SQLite, Deletando registros na tabela, DELETE - Curso de Python #50
     - [x] SQLite, Atualizar registros na tabela, UPDATE - Curso de Python #51
     - [x] SQLite, Consultar Registros, SELECT - Curso de Python #52
-    - [ ] Criando uma agenda com banco SQLite #p1 - Curso de Python #53
+    - [x] Criando uma agenda com banco SQLite #p1 - Curso de Python #53
     - [ ] Criando uma agenda com banco SQLite #p2 - Curso de Python #54
     - [ ] Criando uma agenda com banco SQLite #p3 - Curso de Python #55
     - [ ] Criando uma agenda com banco SQLite #p4 - Curso de Python #56
