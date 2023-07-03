@@ -103,7 +103,7 @@ def verificarVitoria():
         soma = 0
         idiagl = 0
         idiagc = 2
-        while idiagc < 3:
+        while idiagc >= 0:
             if velha[idiagl][idiagc] == s:
                 soma += 1
             idiagl += 1
@@ -114,7 +114,32 @@ def verificarVitoria():
     return vitoria
 
 
-while True:
-    Tela()
-    jogadorJoga()
-    cpuJoga()
+def redefinir():
+    global velha
+    global jogadas
+    global quemJoga
+    global maxJogadas
+    global vit
+    jogadas = 0
+    quemJoga = 2
+    maxJogadas = 9
+    vit = "n"
+    velha = [[" ", " ", " "], [" ", " ", " "], [" ", " ", " "]]
+
+
+while jogarNovamente == "s" or jogarNovamente == "S":
+    while True:
+        Tela()
+        jogadorJoga()
+        cpuJoga()
+        Tela()
+        vit = verificarVitoria()
+        if vit != "n" or jogadas >= maxJogadas:
+            break
+    print(Fore.RED, "Fim de jogo", Fore.YELLOW)
+    if vit == "X" or vit == "0":
+        print(f"Resultado: Jogador {vit} venceu")
+    else:
+        print(f"Resultado: Empate")
+    jogarNovamente = input(Fore.BLUE + "Jogar Novamente? [s/n]: " + Fore.RESET)
+    redefinir()

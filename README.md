@@ -606,7 +606,7 @@ Dia 20
     - [x] Jogo da Velha em Python #P1 - Curso de Python #30
     - [x] Jogo da Velha em Python #P2 - Curso de Python #31
     - [x] Jogo da Velha em Python #P3 - Curso de Python #32
-    - [ ] Jogo da Velha em Python #P4 - Curso de Python #33
+    - [x] Jogo da Velha em Python #P4 - Curso de Python #33
     - [ ] Modulos externos / Funções em arquivos externos - Curso de Python #34
     - [ ] trabalhando com DATAS em PYTHON Funções em arquivos externos - Curso de Python #35
     - [ ] JSON em PYTHON - Curso de Python #36
