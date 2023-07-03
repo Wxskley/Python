@@ -603,8 +603,8 @@ Dia 20
     - [x] Exercício Prático 1 / Parte 1 - Curso de Python #27
     - [x] Exercício Prático 1 / Parte 2 - Curso de Python #28
     - [x] Iterators - Curso de Python #29
-    - [ ] Jogo da Velha em Python #P1 - Curso de Python #30
-    - [ ] Jogo da Velha em Python #P2 - Curso de Python #31
+    - [x] Jogo da Velha em Python #P1 - Curso de Python #30
+    - [x] Jogo da Velha em Python #P2 - Curso de Python #31
     - [ ] Jogo da Velha em Python #P3 - Curso de Python #32
     - [ ] Jogo da Velha em Python #P4 - Curso de Python #33
     - [ ] Modulos externos / Funções em arquivos externos - Curso de Python #34
