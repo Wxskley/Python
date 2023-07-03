@@ -605,7 +605,7 @@ Dia 20
     - [x] Iterators - Curso de Python #29
     - [x] Jogo da Velha em Python #P1 - Curso de Python #30
     - [x] Jogo da Velha em Python #P2 - Curso de Python #31
-    - [ ] Jogo da Velha em Python #P3 - Curso de Python #32
+    - [x] Jogo da Velha em Python #P3 - Curso de Python #32
     - [ ] Jogo da Velha em Python #P4 - Curso de Python #33
     - [ ] Modulos externos / Funções em arquivos externos - Curso de Python #34
     - [ ] trabalhando com DATAS em PYTHON Funções em arquivos externos - Curso de Python #35
