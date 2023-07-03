@@ -620,12 +620,12 @@ Dia 20
     - [x] Operações em arquivos P1 - Curso de Python #44
     - [x] Operações em arquivos - P2 - Curso de Python #45
     - [x] Deletando arquivos - P3 - Curso de Python #46
-    - [ ] SQLite, Banco de dados e tabelas - Curso de Python #47
-    - [ ] SQLite, Criando conexão com o banco e criação de tabelas - Curso de Python #48
-    - [ ] SQLite, Inserindo registros na tabela, INSERT INTO - Curso de Python #49
-    - [ ] SQLite, Deletando registros na tabela, DELETE - Curso de Python #50
-    - [ ] SQLite, Atualizar registros na tabela, UPDATE - Curso de Python #51
-    - [ ] SQLite, Consultar Registros, SELECT - Curso de Python #52
+    - [x] SQLite, Banco de dados e tabelas - Curso de Python #47
+    - [x] SQLite, Criando conexão com o banco e criação de tabelas - Curso de Python #48
+    - [x] SQLite, Inserindo registros na tabela, INSERT INTO - Curso de Python #49
+    - [x] SQLite, Deletando registros na tabela, DELETE - Curso de Python #50
+    - [x] SQLite, Atualizar registros na tabela, UPDATE - Curso de Python #51
+    - [x] SQLite, Consultar Registros, SELECT - Curso de Python #52
     - [ ] Criando uma agenda com banco SQLite #p1 - Curso de Python #53
     - [ ] Criando uma agenda com banco SQLite #p2 - Curso de Python #54
     - [ ] Criando uma agenda com banco SQLite #p3 - Curso de Python #55
