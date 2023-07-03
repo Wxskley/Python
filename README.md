@@ -614,3 +614,23 @@ Dia 20
     - [x] JSON em PYTHON - Parte 3 - Curso de Python #38
     - [x] JSON em PYTHON - Parte 4 - Curso de Python #39
     - [x] Expressões Regulares - RegEx findall - Curso de Python #40
+    - [ ] Expressões Regulares - RegEx Search- Curso de Python #41
+    - [ ] Expressões Regulares - RegEx Split- Curso de Python #42
+    - [ ] Expressões Regulares - RegEx Sub - Curso de Python #43
+    - [ ] Operações em arquivos P1 - Curso de Python #44
+    - [ ] Operações em arquivos - P2 - Curso de Python #45
+    - [ ] Deletando arquivos - P3 - Curso de Python #46
+    - [ ] SQLite, Banco de dados e tabelas - Curso de Python #47
+    - [ ] SQLite, Criando conexão com o banco e criação de tabelas - Curso de Python #48
+    - [ ] SQLite, Inserindo registros na tabela, INSERT INTO - Curso de Python #49
+    - [ ] SQLite, Deletando registros na tabela, DELETE - Curso de Python #50
+    - [ ] SQLite, Atualizar registros na tabela, UPDATE - Curso de Python #51
+    - [ ] SQLite, Consultar Registros, SELECT - Curso de Python #52
+    - [ ] Criando uma agenda com banco SQLite #p1 - Curso de Python #53
+    - [ ] Criando uma agenda com banco SQLite #p2 - Curso de Python #54
+    - [ ] Criando uma agenda com banco SQLite #p3 - Curso de Python #55
+    - [ ] Criando uma agenda com banco SQLite #p4 - Curso de Python #56
+    - [ ] Interface Gráfica no Python com Tkinter - Curso de Python #57
+    - [ ] Tkinter, Entry e Text - Curso de Python #58
+    - [ ] Tkinter, Button Widget - Curso de Python #59
+    - [ ] Tkinter - Gravando dados do formulário no banco de dados - Curso de Python #60
