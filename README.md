@@ -614,12 +614,12 @@ Dia 20
     - [x] JSON em PYTHON - Parte 3 - Curso de Python #38
     - [x] JSON em PYTHON - Parte 4 - Curso de Python #39
     - [x] Expressões Regulares - RegEx findall - Curso de Python #40
-    - [ ] Expressões Regulares - RegEx Search- Curso de Python #41
-    - [ ] Expressões Regulares - RegEx Split- Curso de Python #42
-    - [ ] Expressões Regulares - RegEx Sub - Curso de Python #43
-    - [ ] Operações em arquivos P1 - Curso de Python #44
-    - [ ] Operações em arquivos - P2 - Curso de Python #45
-    - [ ] Deletando arquivos - P3 - Curso de Python #46
+    - [x] Expressões Regulares - RegEx Search- Curso de Python #41
+    - [x] Expressões Regulares - RegEx Split- Curso de Python #42
+    - [x] Expressões Regulares - RegEx Sub - Curso de Python #43
+    - [x] Operações em arquivos P1 - Curso de Python #44
+    - [x] Operações em arquivos - P2 - Curso de Python #45
+    - [x] Deletando arquivos - P3 - Curso de Python #46
     - [ ] SQLite, Banco de dados e tabelas - Curso de Python #47
     - [ ] SQLite, Criando conexão com o banco e criação de tabelas - Curso de Python #48
     - [ ] SQLite, Inserindo registros na tabela, INSERT INTO - Curso de Python #49
