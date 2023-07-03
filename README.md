@@ -629,7 +629,7 @@ Dia 20
     - [x] Criando uma agenda com banco SQLite #p1 - Curso de Python #53
     - [x] Criando uma agenda com banco SQLite #p2 - Curso de Python #54
     - [x] Criando uma agenda com banco SQLite #p3 - Curso de Python #55
-    - [ ] Criando uma agenda com banco SQLite #p4 - Curso de Python #56
+    - [x] Criando uma agenda com banco SQLite #p4 - Curso de Python #56
     - [ ] Interface Gráfica no Python com Tkinter - Curso de Python #57
     - [ ] Tkinter, Entry e Text - Curso de Python #58
     - [ ] Tkinter, Button Widget - Curso de Python #59
