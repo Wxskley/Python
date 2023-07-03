@@ -607,10 +607,10 @@ Dia 20
     - [x] Jogo da Velha em Python #P2 - Curso de Python #31
     - [x] Jogo da Velha em Python #P3 - Curso de Python #32
     - [x] Jogo da Velha em Python #P4 - Curso de Python #33
-    - [ ] Modulos externos / Funções em arquivos externos - Curso de Python #34
-    - [ ] trabalhando com DATAS em PYTHON Funções em arquivos externos - Curso de Python #35
-    - [ ] JSON em PYTHON - Curso de Python #36
-    - [ ] JSON em PYTHON - Parte 2 - Curso de Python #37
-    - [ ] JSON em PYTHON - Parte 3 - Curso de Python #38
-    - [ ] JSON em PYTHON - Parte 4 - Curso de Python #39
-    - [ ] Expressões Regulares - RegEx findall - Curso de Python #40
+    - [x] Modulos externos / Funções em arquivos externos - Curso de Python #34
+    - [x] trabalhando com DATAS em PYTHON Funções em arquivos externos - Curso de Python #35
+    - [x] JSON em PYTHON - Curso de Python #36
+    - [x] JSON em PYTHON - Parte 2 - Curso de Python #37
+    - [x] JSON em PYTHON - Parte 3 - Curso de Python #38
+    - [x] JSON em PYTHON - Parte 4 - Curso de Python #39
+    - [x] Expressões Regulares - RegEx findall - Curso de Python #40
