@@ -591,3 +591,26 @@ Dia 19
     - [x] Jogo simples de adivinhação em Python - Curso de Python #18
     - [x] Funções P1 - Curso de Python #19
     - [x] Funções P2 / argumentos de entrada - Curso de Python #20
+
+Dia 20
+- [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
+    - [ ] Funções P3 / Retorno de valores - Curso de Python #21
+    - [ ] Funções Lamda ou Funções Anônimas - Curso de Python #22
+    - [ ] POO - Classes / P1 - Curso de Python #23
+    - [ ] POO - Classes / P2 / Construtor e métodos - Curso de Python #24
+    - [ ] POO - Herança / P3 - Curso de Python #25
+    - [ ] Try Except / tratamento de erros - Curso de Python #26
+    - [ ] Exercício Prático 1 / Parte 1 - Curso de Python #27
+    - [ ] Exercício Prático 1 / Parte 2 - Curso de Python #28
+    - [ ] Iterators - Curso de Python #29
+    - [ ] Jogo da Velha em Python #P1 - Curso de Python #30
+    - [ ] Jogo da Velha em Python #P2 - Curso de Python #31
+    - [ ] Jogo da Velha em Python #P3 - Curso de Python #32
+    - [ ] Jogo da Velha em Python #P4 - Curso de Python #33
+    - [ ] Modulos externos / Funções em arquivos externos - Curso de Python #34
+    - [ ] trabalhando com DATAS em PYTHON Funções em arquivos externos - Curso de Python #35
+    - [ ] JSON em PYTHON - Curso de Python #36
+    - [ ] JSON em PYTHON - Parte 2 - Curso de Python #37
+    - [ ] JSON em PYTHON - Parte 3 - Curso de Python #38
+    - [ ] JSON em PYTHON - Parte 4 - Curso de Python #39
+    - [ ] Expressões Regulares - RegEx findall - Curso de Python #40
