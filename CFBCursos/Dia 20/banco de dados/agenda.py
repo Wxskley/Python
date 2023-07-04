@@ -3,6 +3,7 @@ import sqlite3
 from sqlite3 import Error
 
 
+# Função para estabelecer conexão com o banco de dados SQLite
 def ConexaoBanco():
     caminho = r"C:\Users\Weskley\Documents\Programação\Python\CFBCursos\Dia 20\banco de dados\agenda.db"
     con = None
@@ -13,9 +14,11 @@ def ConexaoBanco():
     return con
 
 
+# Estabelece a conexão com o banco de dados
 vcon = ConexaoBanco()
 
 
+# Função para executar uma consulta SQL sem retorno de dados
 def query(conexao, sql):
     try:
         c = conexao.cursor()
@@ -25,9 +28,9 @@ def query(conexao, sql):
         print(ex)
     finally:
         print("Operação realizada com sucesso")
-        # conexao.close()
 
 
+# Função para executar uma consulta SQL com retorno de dados
 def consultar(conexao, sql):
     c = conexao.cursor()
     c.execute(sql)
@@ -35,9 +38,10 @@ def consultar(conexao, sql):
     return res
 
 
+# Função para exibir o menu principal
 def menuPrincipal():
     os.system("cls")
-    print("1 - Inserior Novo Registro")
+    print("1 - Inserir Novo Registro")
     print("2 - Deletar Registro")
     print("3 - Atualizar Registro")
     print("4 - Consultar Registros")
@@ -45,6 +49,7 @@ def menuPrincipal():
     print("6 - Sair")
 
 
+# Função para exibir o menu de inserção de registros
 def menuInserir():
     os.system("cls")
     vnome = input("Digite o nome: ")
@@ -54,6 +59,7 @@ def menuInserir():
     query(vcon, vsql)
 
 
+# Função para exibir o menu de exclusão de registros
 def menuDeletar():
     os.system("cls")
     vid = input("Digite o ID do registro a ser deletado: ")
@@ -61,6 +67,7 @@ def menuDeletar():
     query(vcon, vsql)
 
 
+# Função para exibir o menu de atualização de registros
 def menuAtualizar():
     os.system("cls")
     vid = input("Digite o ID do registro a ser alterado: ")
@@ -81,6 +88,7 @@ def menuAtualizar():
     query(vcon, vsql)
 
 
+# Função para exibir todos os registros
 def menuConsultar():
     vsql = "SELECT * FROM tb_contatos"
     res = consultar(vcon, vsql)
@@ -101,6 +109,7 @@ def menuConsultar():
     os.system("pause")
 
 
+# Função para consultar registros por nome
 def menuConsultarNomes():
     vnome = input("Digite o nome: ")
     vsql = f"SELECT * FROM tb_contatos WHERE T_NOMECONTATO LIKE '%{vnome}%'"
@@ -122,7 +131,10 @@ def menuConsultarNomes():
     os.system("pause")
 
 
+# Variável para armazenar a opção escolhida pelo usuário
 opc = 0
+
+# Loop para exibir o menu principal e executar as opções selecionadas
 while opc != 6:
     menuPrincipal()
     opc = int(input("Digite uma opção: "))
@@ -143,5 +155,7 @@ while opc != 6:
         os.system("cls")
         print("Opção inválida")
         os.system("pause")
+
+# Fecha a conexão com o banco de dados ao final do programa
 vcon.close()
 os.system("pause")
