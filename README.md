@@ -640,8 +640,8 @@ Dia 21
     - [x] Tkinter - Criando uma Barra de Menus - Curso de Python #61
     - [x] Abrindo novos formulários passando parâmetros - Curso de Python #62
     - [x] Tkinter Radio Button - Curso de Python #63
-    - [ ] Tkinter - OptionMenu - Curso de Python #64
-    - [ ] Tkinter - Messagebox - Curso de Python #65
+    - [x] Tkinter - OptionMenu - Curso de Python #64
+    - [x] Tkinter - Messagebox - Curso de Python #65
     - [ ] Tkinter - Frame - Curso de Python #66
     - [ ] Tkinter - Label - Curso de Python #67
     - [ ] Tkinter - PhotoImage - Curso de Python #68
