@@ -10,7 +10,7 @@
 - [Numpy e Álgebra Linear com Python [NAL] - Iury Rosal](https://www.youtube.com/playlist?list=PLshkB4NQEfC64NKlOeGexReNHFMdFkfaP) [1x]
 - [CRUD COM PYTHON - Webdesign em Foco](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N) [1x]
 - [Fundamentos em Python - Balaio Científico](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og) [1x]
-- [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
+- [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR) [1x]
 
 Dia 1
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
@@ -632,3 +632,34 @@ Dia 20
     - [x] Criando uma agenda com banco SQLite #p4 - Curso de Python #56
     - [x] Interface Gráfica no Python com Tkinter - Curso de Python #57
     - [x] Tkinter, Entry e Text - Curso de Python #58
+
+Dia 21
+- [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
+    - [ ] Tkinter, Button Widget - Curso de Python #59
+    - [ ] Tkinter - Gravando dados do formulário no banco de dados - Curso de Python #60
+    - [ ] Tkinter - Criando uma Barra de Menus - Curso de Python #61
+    - [ ] Abrindo novos formulários passando parâmetros - Curso de Python #62
+    - [ ] Tkinter Radio Button - Curso de Python #63
+    - [ ] Tkinter - OptionMenu - Curso de Python #64
+    - [ ] Tkinter - Messagebox - Curso de Python #65
+    - [ ] Tkinter - Frame - Curso de Python #66
+    - [ ] Tkinter - Label - Curso de Python #67
+    - [ ] Tkinter - PhotoImage - Curso de Python #68
+    - [ ] Tkinter - Checkbutton - Curso de Python #69
+    - [ ] Tkinter - Password - Curso de Python #70
+    - [ ] Tkinter - ComboBox- Curso de Python #71
+    - [ ] Tkinter - Scale- Curso de Python #72
+    - [ ] Tkinter - LabelFrame - Curso de Python #73
+    - [ ] Tkinter - Listbox - Curso de Python #74
+    - [ ] Tkinter - SpinBox - Curso de Python #75
+    - [ ] Tkinter - abas e notbook - Curso de Python #76
+    - [ ] Tkinter - ProgressBar - Curso de Python #77
+    - [ ] Tkinter - Grid - Curso de Python #78
+    - [ ] Tkinter - TreeView - Curso de Python #79
+    - [ ] Tkinter - Inserindo dados do formulário no TreeView - Curso de Python #80
+    - [ ] Tkinter - Deletando e obtendo dados do TreeView - Curso de Python #81
+    - [ ] Tkinter - TreeView com Banco de Dados - Curso de Python #82
+    - [ ] Criando arquivos PDF em Python com Reportlab #P1 - Curso de Python #83
+    - [ ] Criando arquivos PDF em Python com Reportlab #P2 - Curso de Python #84
+    - [ ] Biblioteca URLLIB #P1 - Curso de Python #85
+    - [ ] Biblioteca URLLIB #P2 - Curso de Python #86
