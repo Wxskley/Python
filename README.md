@@ -635,7 +635,7 @@ Dia 20
 
 Dia 21
 - [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
-    - [ ] Tkinter, Button Widget - Curso de Python #59
+    - [x] Tkinter, Button Widget - Curso de Python #59
     - [ ] Tkinter - Gravando dados do formulário no banco de dados - Curso de Python #60
     - [ ] Tkinter - Criando uma Barra de Menus - Curso de Python #61
     - [ ] Abrindo novos formulários passando parâmetros - Curso de Python #62
