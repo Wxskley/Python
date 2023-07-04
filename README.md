@@ -642,23 +642,23 @@ Dia 21
     - [x] Tkinter Radio Button - Curso de Python #63
     - [x] Tkinter - OptionMenu - Curso de Python #64
     - [x] Tkinter - Messagebox - Curso de Python #65
-    - [ ] Tkinter - Frame - Curso de Python #66
-    - [ ] Tkinter - Label - Curso de Python #67
-    - [ ] Tkinter - PhotoImage - Curso de Python #68
-    - [ ] Tkinter - Checkbutton - Curso de Python #69
-    - [ ] Tkinter - Password - Curso de Python #70
-    - [ ] Tkinter - ComboBox- Curso de Python #71
-    - [ ] Tkinter - Scale- Curso de Python #72
-    - [ ] Tkinter - LabelFrame - Curso de Python #73
-    - [ ] Tkinter - Listbox - Curso de Python #74
-    - [ ] Tkinter - SpinBox - Curso de Python #75
-    - [ ] Tkinter - abas e notbook - Curso de Python #76
-    - [ ] Tkinter - ProgressBar - Curso de Python #77
-    - [ ] Tkinter - Grid - Curso de Python #78
-    - [ ] Tkinter - TreeView - Curso de Python #79
-    - [ ] Tkinter - Inserindo dados do formulário no TreeView - Curso de Python #80
-    - [ ] Tkinter - Deletando e obtendo dados do TreeView - Curso de Python #81
-    - [ ] Tkinter - TreeView com Banco de Dados - Curso de Python #82
+    - [x] Tkinter - Frame - Curso de Python #66
+    - [x] Tkinter - Label - Curso de Python #67
+    - [x] Tkinter - PhotoImage - Curso de Python #68
+    - [x] Tkinter - Checkbutton - Curso de Python #69
+    - [x] Tkinter - Password - Curso de Python #70
+    - [x] Tkinter - ComboBox- Curso de Python #71
+    - [x] Tkinter - Scale- Curso de Python #72
+    - [x] Tkinter - LabelFrame - Curso de Python #73
+    - [x] Tkinter - Listbox - Curso de Python #74
+    - [x] Tkinter - SpinBox - Curso de Python #75
+    - [x] Tkinter - abas e notbook - Curso de Python #76
+    - [x] Tkinter - ProgressBar - Curso de Python #77
+    - [x] Tkinter - Grid - Curso de Python #78
+    - [x] Tkinter - TreeView - Curso de Python #79
+    - [x] Tkinter - Inserindo dados do formulário no TreeView - Curso de Python #80
+    - [x] Tkinter - Deletando e obtendo dados do TreeView - Curso de Python #81
+    - [x] Tkinter - TreeView com Banco de Dados - Curso de Python #82
     - [ ] Criando arquivos PDF em Python com Reportlab #P1 - Curso de Python #83
     - [ ] Criando arquivos PDF em Python com Reportlab #P2 - Curso de Python #84
     - [ ] Biblioteca URLLIB #P1 - Curso de Python #85
