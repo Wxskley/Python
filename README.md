@@ -659,7 +659,7 @@ Dia 21
     - [x] Tkinter - Inserindo dados do formulário no TreeView - Curso de Python #80
     - [x] Tkinter - Deletando e obtendo dados do TreeView - Curso de Python #81
     - [x] Tkinter - TreeView com Banco de Dados - Curso de Python #82
-    - [ ] Criando arquivos PDF em Python com Reportlab #P1 - Curso de Python #83
-    - [ ] Criando arquivos PDF em Python com Reportlab #P2 - Curso de Python #84
-    - [ ] Biblioteca URLLIB #P1 - Curso de Python #85
-    - [ ] Biblioteca URLLIB #P2 - Curso de Python #86
+    - [x] Criando arquivos PDF em Python com Reportlab #P1 - Curso de Python #83
+    - [x] Criando arquivos PDF em Python com Reportlab #P2 - Curso de Python #84
+    - [x] Biblioteca URLLIB #P1 - Curso de Python #85
+    - [x] Biblioteca URLLIB #P2 - Curso de Python #86
