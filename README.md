@@ -698,7 +698,10 @@ Dia 22
     - [x] Curso Completo de Python - Aula 31 - Resolvendo o Exercício 2
     - [x] Curso Completo de Python - Aula 32 - Resolvendo o Exercício 3
     - [x] Curso Completo de Python - Aula 33 - Resolvendo o Exercício 4
-    - [ ] Curso Completo de Python - Aula 34 - Classes (introdução)
+    - [x] Curso Completo de Python - Aula 34 - Classes (introdução)
+
+Dia 23
+- [Curso Completo de Python - Jefferson Lobato](https://www.youtube.com/playlist?list=PLLVddSbilcul-1bAKtMKoL6wOCmDIPzFJ)
     - [ ] Curso Completo de Python - Aula 35 - Exercitando Classes - Parte 1
     - [ ] Curso Completo de Python - Aula 36 - Exercitando Classes - Parte 2
     - [ ] Curso Completo de Python - Aula 37 - Alterando atributos de uma instância - Parte 1
