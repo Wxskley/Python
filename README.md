@@ -693,4 +693,29 @@ Dia 22
     - [x] Curso Completo de Python - Aula 27 - Valor de retorno das funções (return)
     - [x] Curso Completo de Python - Aula 28 - Trabalhando com listas dentro das funções
     - [x] Curso Completo de Python - Aula 29 - Importando Módulos
-    - [ ]
+    - [x] Curso Completo de Python - 1ª Parte de Exercícios
+    - [x] Curso Completo de Python - Aula 30 - Resolvendo o Exercício 1
+    - [x] Curso Completo de Python - Aula 31 - Resolvendo o Exercício 2
+    - [x] Curso Completo de Python - Aula 32 - Resolvendo o Exercício 3
+    - [ ] Curso Completo de Python - Aula 33 - Resolvendo o Exercício 4
+    - [ ] Curso Completo de Python - Aula 34 - Classes (introdução)
+    - [ ] Curso Completo de Python - Aula 35 - Exercitando Classes - Parte 1
+    - [ ] Curso Completo de Python - Aula 36 - Exercitando Classes - Parte 2
+    - [ ] Curso Completo de Python - Aula 37 - Alterando atributos de uma instância - Parte 1
+    - [ ] Curso Completo de Python - Aula 38 - Alterando atributos de uma instância - Parte 2
+    - [ ] Curso Completo de Python - Aula 39 - Herança - Parte 1
+    - [ ] Curso Completo de Python - Aula 40 - Herança - Parte 2
+    - [ ] Curso Completo de Python - Aula 41 - Herança - Parte 3
+    - [ ] Curso Completo de Python - Aula 42 - Manipulando Arquivos de texto
+    - [ ] Curso Completo de Python - Aula 43 - Tratamento de erros com Try e Except
+    - [ ] Curso Completo de Python - Aula 44 - Trabalhando com banco de dados SQLite
+    - [ ] Curso Completo de Python - Aula 45 - Criando executável com o Pyinstaller
+    - [ ] Curso Completo de Python - Aula 46 - Tkinter: Criando janela
+    - [ ] Curso Completo de Python - Aula 47 - Tkinter: Adicionando componentes à nossa janela
+    - [ ] Curso Completo de Python - Aula 48 - Tkinter: Posicionando meus componentes da janela
+    - [ ] Curso Completo de Python - Aula 49 - Tkinter: Executando métodos com os botões e inserindo
+    - [ ] Curso Completo de Python - Aula 50 - Tkinter: bordas e cor de fundo da janela
+    - [ ] Curso Completo de Python - Aula 51 - Tkinter: apresentando nosso primeiro projeto
+    - [ ] Curso Completo de Python - Aula 52 - Tkinter: Interface gráfica do nosso joguinho - Parte 1
+    - [ ] Curso Completo de Python - Aula 53 - Tkinter: Interface gráfica do nosso joguinho - Parte 2
+    - [ ] Curso Completo de Python - Aula 54 - Tkinter: Interface gráfica do nosso joguinho - Parte 3

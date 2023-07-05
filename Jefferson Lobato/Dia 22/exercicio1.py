@@ -6,4 +6,5 @@ while cont <= 10:
     cont += 1
 print("Os convidados em ordem alfabética:")
 convidados.sort()
-print(convidados)
+for convidado in convidados:
+    print(convidado)
