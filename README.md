@@ -672,4 +672,9 @@ Dia 22
     - [x] Curso Completo de Python - Aula 6 - Trabalhando com números
     - [x] Curso Completo de Python - Aula 7 - Introdução à listas
     - [x] Curso Completo de Python - Aula 8 - Manipulando elementos de uma lista
-    - [ ] Curso Completo de Python - Aula 9 - Organizando listas
+    - [x] Curso Completo de Python - Aula 9 - Organizando listas
+    - [x] Curso Completo de Python - Aula 10 - Laço de repetição FOR
+    - [x] Curso Completo de Python - Aula 11 - Trabalhando com números no laço FOR
+    - [x] Curso Completo de Python - Aula 12 - Fatiando listas
+    - [x] Curso Completo de Python - Aula 13 - Copiando listas
+    - [x] Curso Completo de Python - Aula 14 - Tuplas
