@@ -678,3 +678,19 @@ Dia 22
     - [x] Curso Completo de Python - Aula 12 - Fatiando listas
     - [x] Curso Completo de Python - Aula 13 - Copiando listas
     - [x] Curso Completo de Python - Aula 14 - Tuplas
+    - [x] Curso Completo de Python - Aula 15 - If e Else Parte I
+    - [x] Curso Completo de Python - Aula 16 - If e Else Parte II
+    - [x] Curso Completo de Python - Aula 17 - If e Else Parte III
+    - [x] Curso Completo de Python - Aula 18 - If e Else Parte IV
+    - [x] Curso Completo de Python - Aula 19 - If e Else Parte V final
+    - [x] Curso Completo de Python - Aula 20 - Dicionários Parte I
+    - [x] Curso Completo de Python - Aula 21 - Dicionários Parte II
+    - [x] Curso Completo de Python - Aula 22 - Função Imput
+    - [x] Curso Completo de Python - Aula 23 - Laço de Repetição While
+    - [x] Curso Completo de Python - Aula 24 - Instrução Break e Instrução Continue
+    - [x] Curso Completo de Python - Aula 25 - Funções, argumentos e parâmetros
+    - [x] Curso Completo de Python - Aula 26 - Argumentos posicionais, nomeados e padrões
+    - [x] Curso Completo de Python - Aula 27 - Valor de retorno das funções (return)
+    - [x] Curso Completo de Python - Aula 28 - Trabalhando com listas dentro das funções
+    - [x] Curso Completo de Python - Aula 29 - Importando Módulos
+    - [ ]
