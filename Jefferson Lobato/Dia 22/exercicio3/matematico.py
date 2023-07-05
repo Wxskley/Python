@@ -15,3 +15,13 @@ def divisao(a, b):
         return a / b
     else:
         print("Impossível dividir por zero.")
+
+
+def par_impar(a, b):
+    soma = a + b
+    sobra = soma % 2
+    if sobra == 0:
+        par_impar = "par"
+    else:
+        par_impar = "ímpar"
+    return par_impar

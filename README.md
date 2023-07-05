@@ -697,7 +697,7 @@ Dia 22
     - [x] Curso Completo de Python - Aula 30 - Resolvendo o Exercício 1
     - [x] Curso Completo de Python - Aula 31 - Resolvendo o Exercício 2
     - [x] Curso Completo de Python - Aula 32 - Resolvendo o Exercício 3
-    - [ ] Curso Completo de Python - Aula 33 - Resolvendo o Exercício 4
+    - [x] Curso Completo de Python - Aula 33 - Resolvendo o Exercício 4
     - [ ] Curso Completo de Python - Aula 34 - Classes (introdução)
     - [ ] Curso Completo de Python - Aula 35 - Exercitando Classes - Parte 1
     - [ ] Curso Completo de Python - Aula 36 - Exercitando Classes - Parte 2
