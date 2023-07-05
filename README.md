@@ -11,6 +11,7 @@
 - [CRUD COM PYTHON - Webdesign em Foco](https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N) [1x]
 - [Fundamentos em Python - Balaio Científico](https://www.youtube.com/playlist?list=PL9yRFhroUHDDPstbaxcIkcMjiPyVmb-og) [1x]
 - [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR) [1x]
+- [Curso Completo de Python - Jefferson Lobato](https://www.youtube.com/playlist?list=PLLVddSbilcul-1bAKtMKoL6wOCmDIPzFJ)
 
 Dia 1
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
@@ -663,3 +664,12 @@ Dia 21
     - [x] Criando arquivos PDF em Python com Reportlab #P2 - Curso de Python #84
     - [x] Biblioteca URLLIB #P1 - Curso de Python #85
     - [x] Biblioteca URLLIB #P2 - Curso de Python #86
+
+Dia 22
+- [Curso Completo de Python - Jefferson Lobato](https://www.youtube.com/playlist?list=PLLVddSbilcul-1bAKtMKoL6wOCmDIPzFJ)
+    - [x] Curso Completo de Python - Aula 4 - Variáveis
+    - [x] Curso Completo de Python - Aula 5 - Strings
+    - [x] Curso Completo de Python - Aula 6 - Trabalhando com números
+    - [x] Curso Completo de Python - Aula 7 - Introdução à listas
+    - [x] Curso Completo de Python - Aula 8 - Manipulando elementos de uma lista
+    - [ ] Curso Completo de Python - Aula 9 - Organizando listas
