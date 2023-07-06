@@ -731,3 +731,6 @@ Dia 23
     - [x] Curso Completo de Python - Aula 61 - Pygame - Cor de fundo e tamanho de tela
     - [x] Curso Completo de Python - Aula 62 - Pygame: Adicionando imagem Parte 1
     - [x] Curso Completo de Python - Aula 63 - Pygame: Adicionando imagem Parte 2
+    - [x] Curso Completo de Python - Aula 64 - Dando movimento a espaço nave parte 1
+    - [x] Curso Completo de Python - Aula 65 - Dando movimento a espaçonave parte 2
+    - [x] Curso Completo de Python - Aula 66 - Alterando a velocidade da espaçonave
