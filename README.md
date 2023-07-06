@@ -722,3 +722,8 @@ Dia 23
     - [x] Curso Completo de Python - Aula 52 - Tkinter: Interface gráfica do nosso joguinho - Parte 1
     - [x] Curso Completo de Python - Aula 53 - Tkinter: Interface gráfica do nosso joguinho - Parte 2
     - [x] Curso Completo de Python - Aula 54 - Tkinter: Interface gráfica do nosso joguinho - Parte 3
+    - [x] Curso Completo de Python - Aula 55 - Tkinter: Função do botão Jogar - Parte 1
+    - [x] Curso Completo de Python - Aula 56 - Tkinter: Função do botão Jogar - Parte 2
+    - [x] Curso Completo de Python - Aula 57 - Tkinter: Função do botão Jogar - Parte 3
+    - [x] Curso Completo de Python - Aula 58 - Tkinter: Função do botão Jogar - Parte 4
+    - [x] Curso Completo de Python - Aula 59 - Tkinter: Compilando para .EXE sem console e com ícone
