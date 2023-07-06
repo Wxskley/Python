@@ -714,9 +714,9 @@ Dia 23
     - [x] Curso Completo de Python - Aula 44 - Trabalhando com banco de dados SQLite
     - [x] Curso Completo de Python - Aula 45 - Criando executável com o Pyinstaller
     - [x] Curso Completo de Python - Aula 46 - Tkinter: Criando janela
-    - [ ] Curso Completo de Python - Aula 47 - Tkinter: Adicionando componentes à nossa janela
-    - [ ] Curso Completo de Python - Aula 48 - Tkinter: Posicionando meus componentes da janela
-    - [ ] Curso Completo de Python - Aula 49 - Tkinter: Executando métodos com os botões e inserindo
+    - [x] Curso Completo de Python - Aula 47 - Tkinter: Adicionando componentes à nossa janela
+    - [x] Curso Completo de Python - Aula 48 - Tkinter: Posicionando meus componentes da janela
+    - [x] Curso Completo de Python - Aula 49 - Tkinter: Executando métodos com os botões e inserindo
     - [ ] Curso Completo de Python - Aula 50 - Tkinter: bordas e cor de fundo da janela
     - [ ] Curso Completo de Python - Aula 51 - Tkinter: apresentando nosso primeiro projeto
     - [ ] Curso Completo de Python - Aula 52 - Tkinter: Interface gráfica do nosso joguinho - Parte 1
