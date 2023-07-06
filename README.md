@@ -717,8 +717,8 @@ Dia 23
     - [x] Curso Completo de Python - Aula 47 - Tkinter: Adicionando componentes à nossa janela
     - [x] Curso Completo de Python - Aula 48 - Tkinter: Posicionando meus componentes da janela
     - [x] Curso Completo de Python - Aula 49 - Tkinter: Executando métodos com os botões e inserindo
-    - [ ] Curso Completo de Python - Aula 50 - Tkinter: bordas e cor de fundo da janela
-    - [ ] Curso Completo de Python - Aula 51 - Tkinter: apresentando nosso primeiro projeto
-    - [ ] Curso Completo de Python - Aula 52 - Tkinter: Interface gráfica do nosso joguinho - Parte 1
-    - [ ] Curso Completo de Python - Aula 53 - Tkinter: Interface gráfica do nosso joguinho - Parte 2
-    - [ ] Curso Completo de Python - Aula 54 - Tkinter: Interface gráfica do nosso joguinho - Parte 3
+    - [x] Curso Completo de Python - Aula 50 - Tkinter: bordas e cor de fundo da janela
+    - [x] Curso Completo de Python - Aula 51 - Tkinter: apresentando nosso primeiro projeto
+    - [x] Curso Completo de Python - Aula 52 - Tkinter: Interface gráfica do nosso joguinho - Parte 1
+    - [x] Curso Completo de Python - Aula 53 - Tkinter: Interface gráfica do nosso joguinho - Parte 2
+    - [x] Curso Completo de Python - Aula 54 - Tkinter: Interface gráfica do nosso joguinho - Parte 3
