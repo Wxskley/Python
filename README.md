@@ -708,12 +708,12 @@ Dia 23
     - [x] Curso Completo de Python - Aula 38 - Alterando atributos de uma instância - Parte 2
     - [x] Curso Completo de Python - Aula 39 - Herança - Parte 1
     - [x] Curso Completo de Python - Aula 40 - Herança - Parte 2
-    - [ ] Curso Completo de Python - Aula 41 - Herança - Parte 3
-    - [ ] Curso Completo de Python - Aula 42 - Manipulando Arquivos de texto
-    - [ ] Curso Completo de Python - Aula 43 - Tratamento de erros com Try e Except
-    - [ ] Curso Completo de Python - Aula 44 - Trabalhando com banco de dados SQLite
-    - [ ] Curso Completo de Python - Aula 45 - Criando executável com o Pyinstaller
-    - [ ] Curso Completo de Python - Aula 46 - Tkinter: Criando janela
+    - [x] Curso Completo de Python - Aula 41 - Herança - Parte 3
+    - [x] Curso Completo de Python - Aula 42 - Manipulando Arquivos de texto
+    - [x] Curso Completo de Python - Aula 43 - Tratamento de erros com Try e Except
+    - [x] Curso Completo de Python - Aula 44 - Trabalhando com banco de dados SQLite
+    - [x] Curso Completo de Python - Aula 45 - Criando executável com o Pyinstaller
+    - [x] Curso Completo de Python - Aula 46 - Tkinter: Criando janela
     - [ ] Curso Completo de Python - Aula 47 - Tkinter: Adicionando componentes à nossa janela
     - [ ] Curso Completo de Python - Aula 48 - Tkinter: Posicionando meus componentes da janela
     - [ ] Curso Completo de Python - Aula 49 - Tkinter: Executando métodos com os botões e inserindo
