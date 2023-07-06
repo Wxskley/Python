@@ -702,8 +702,8 @@ Dia 22
 
 Dia 23
 - [Curso Completo de Python - Jefferson Lobato](https://www.youtube.com/playlist?list=PLLVddSbilcul-1bAKtMKoL6wOCmDIPzFJ)
-    - [ ] Curso Completo de Python - Aula 35 - Exercitando Classes - Parte 1
-    - [ ] Curso Completo de Python - Aula 36 - Exercitando Classes - Parte 2
+    - [x] Curso Completo de Python - Aula 35 - Exercitando Classes - Parte 1
+    - [x] Curso Completo de Python - Aula 36 - Exercitando Classes - Parte 2
     - [ ] Curso Completo de Python - Aula 37 - Alterando atributos de uma instância - Parte 1
     - [ ] Curso Completo de Python - Aula 38 - Alterando atributos de uma instância - Parte 2
     - [ ] Curso Completo de Python - Aula 39 - Herança - Parte 1
