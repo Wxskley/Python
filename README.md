@@ -729,4 +729,5 @@ Dia 23
     - [x] Curso Completo de Python - Aula 59 - Tkinter: Compilando para .EXE sem console e com ícone
     - [x] Curso Completo de Python - Aula 60 - Pygame - Estrutura Básica
     - [x] Curso Completo de Python - Aula 61 - Pygame - Cor de fundo e tamanho de tela
-    - [ ] Curso Completo de Python - Aula 62 - Pygame: Adicionando imagem Parte 1
+    - [x] Curso Completo de Python - Aula 62 - Pygame: Adicionando imagem Parte 1
+    - [x] Curso Completo de Python - Aula 63 - Pygame: Adicionando imagem Parte 2
