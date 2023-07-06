@@ -727,3 +727,6 @@ Dia 23
     - [x] Curso Completo de Python - Aula 57 - Tkinter: Função do botão Jogar - Parte 3
     - [x] Curso Completo de Python - Aula 58 - Tkinter: Função do botão Jogar - Parte 4
     - [x] Curso Completo de Python - Aula 59 - Tkinter: Compilando para .EXE sem console e com ícone
+    - [x] Curso Completo de Python - Aula 60 - Pygame - Estrutura Básica
+    - [x] Curso Completo de Python - Aula 61 - Pygame - Cor de fundo e tamanho de tela
+    - [ ] Curso Completo de Python - Aula 62 - Pygame: Adicionando imagem Parte 1
